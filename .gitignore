@@ -1,0 +1,6 @@
+.ruff_cache
+__pycache__
+
+.vscode
+.idea
+.DS_Store

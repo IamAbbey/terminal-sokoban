@@ -1,0 +1,2411 @@
+
+Sokoban Levels
+
+        Title 
+        Date
+        Nr Lev.
+        Author
+    100 Boxes 
+    2010-05-18
+    10  
+    François Marques
+
+    100,000 moves only 
+    2005-10-02
+    10  
+    Vipul Patel
+
+    12 Blocks 
+    2014-03-14
+    25  
+    xbluejimx
+
+    23x11 
+    2012-05-13
+    3  
+    Carlos Montiers
+
+    696 
+    2014-03-25
+    694  
+    Dries de Clercq
+
+    81 
+    2005-10-02
+    25  
+    Thomas Reinke
+
+    A.K.K. Informatika 
+    2010-08-04
+    32  
+    Péter Asztalos
+
+    AC Diamonds 
+    2015-07-02
+    21  
+    Andrej Cerjak
+
+    AC Easy 
+    2015-06-17
+    20  
+    Andrej Cerjak
+
+    AC Selected 
+    2015-07-02
+    46  
+    Andrej Cerjak
+
+    AC-Smileys 
+    2015-07-13
+    21  
+    Andrej Cerjak
+
+    AC-Smileys_2 
+    2015-10-26
+    106  
+    Andrej Cerjak
+
+    AC-Smileys_3 
+    2015-10-26
+    202  
+    Andrej Cerjak
+
+    Alakina 
+    2013-11-03
+    15  
+    Eric F Tchong
+
+    Alberto 
+    2005-10-02
+    50  
+    Alberto García
+
+    Alberto García 1-1 
+    2005-10-02
+    50  
+    Alberto García
+
+    Alberto García 1-2 
+    2005-10-02
+    49  
+    Alberto García
+
+    Alberto García 1-3 
+    2005-10-02
+    50  
+    Alberto García
+
+    Alberto Garcia Arranged 
+    2014-03-01
+    245  
+    Alberto García, Spiros Mantzoukis
+
+    Alberto García Best 4 U 
+    2005-10-02
+    50  
+    Alberto García
+
+    Alberto Garcia Plus 2 
+    2011-08-01
+    199  
+    Alberto García
+
+    Alberto Multipack 
+    2014-03-14
+    247  
+    Alberto García
+
+    Albizia 
+    2005-10-02
+    25  
+    Thomas Reinke
+
+    Alejandro 
+    2013-10-31
+    13  
+    Eric F Tchong
+
+    All Remodels 
+    2014-03-20
+    174  
+    Zhenying and others
+
+    Alphabet Soup 
+    2011-02-09
+    26  
+    Michael C Falk
+
+    Amazing Orimazing 
+    2010-01-25
+    4  
+    Marko Dzekic
+
+    Anomaly 
+    2005-10-02
+    30  
+    Thomas Reinke
+
+    Anomaly 2 
+    2005-10-02
+    30  
+    Thomas Reinke
+
+    Anomaly 3 
+    2012-02-25
+    50  
+    Thomas Reinke
+
+    Armada Collection 1 
+    2013-05-22
+    9  
+    Milutin Negovanovic
+
+    Aruba1 
+    2005-10-02
+    10  
+    Eric F Tchong
+
+    Aruba10 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Aruba2 
+    2005-10-02
+    12  
+    Eric F Tchong
+
+    Aruba3 
+    2005-10-02
+    46  
+    Eric F Tchong
+
+    Aruba4 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Aruba5 
+    2005-10-02
+    47  
+    Eric F Tchong
+
+    Aruba6 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Aruba7 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Aruba8 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Aruba9 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Atlas01 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas02 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas03 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas04 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas05 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas06 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas07 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas08 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Atlas09 
+    2005-10-02
+    101  
+    Eric F Tchong
+
+    Atlas10 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Attrition 
+    2010-11-16
+    29  
+    Razorflame
+
+    Attrition 2 
+    2009-10-31
+    30  
+    Razorflame
+
+    Attrition 3 
+    2014-01-07
+    100  
+    Razorflame
+
+    Attrition 4 
+    2014-03-09
+    21  
+    Razorflame
+
+    Avala 
+    2013-07-18
+    18  
+    Milutin Negovanovic
+
+    Back to origins 
+    2011-12-30
+    3  
+    Tolle
+
+    Banja Koviljaca 
+    2013-01-14
+    25  
+    Zivojin Trifunovic
+
+    Barona 
+    2005-10-02
+    14  
+    Stanislav Kanev
+
+    Beijing Olympics 
+    2005-10-02
+    35  
+    Eduardo Santos
+
+    Big Ben 
+    2013-10-13
+    24  
+    Milan Vukosavljevic
+
+    Birthday 
+    2014-03-08
+    200  
+    Alberto García
+
+    Blazz 
+    2009-06-21
+    18  
+    Blaz Nikolic
+
+    Blazz2 
+    2010-05-18
+    17  
+    Blaz Nikolic
+
+    Blocks 
+    2014-04-12
+    10  
+    Dries de Clercq
+
+    Boxxle 1 
+    2010-05-26
+    108  
+    Thinking Rabbit
+
+    Boxxle 2 
+    2010-05-26
+    120  
+    Thinking Rabbit
+
+    Brainsport 
+    2005-10-02
+    1  
+    Ian Hammond
+
+    Bravo Premysil Zika 
+    2012-01-24
+    10  
+    Eric F Tchong
+
+    Brian Kent's Sokoban2K 
+    2005-10-02
+    50  
+    Brian Kent
+
+    Bringamosa 
+    2020-09-16
+    110  
+    Eric F Tchong
+
+    Bruna Maria 
+    2020-10-24
+    61  
+    Jorge Gloria
+
+    Bruno Druille 
+    2012-09-16
+    27  
+    Bruno Druille
+
+    Bugs collection 
+    2010-11-28
+    81  
+    Buddy Casamis
+
+    Bugs Collection 138 
+    2005-10-02
+    136  
+    Buddy Casamis
+
+    Bugs collection 2 
+    2005-10-02
+    98  
+    Buddy Casamis
+
+    Bugs collection 3 
+    2010-11-16
+    112  
+    Buddy Casamis
+
+    Bugs Collection 97 
+    2005-10-02
+    93  
+    Buddy Casamis
+
+    Bugs special collection 
+    2005-10-02
+    66  
+    Buddy Casamis
+
+    Bugs1005 collections 
+    2010-08-04
+    995  
+    Buddy Casamis
+
+    Bugs509 collection 
+    2005-10-02
+    493  
+    Buddy Casamis
+
+    Bugs550 collection 
+    2005-10-02
+    506  
+    Buddy Casamis
+
+    C-Soko 
+    2013-07-19
+    51  
+    MB
+
+    Cadushi 
+    2017-12-13
+    34  
+    Eric F Tchong
+
+    Calx 
+    2005-10-02
+    25  
+    Thomas Reinke
+
+    Cappuccino 
+    2020-09-16
+    85  
+    Eric F Tchong
+
+    Cargo Bay Deluxe 
+    2010-05-18
+    60  
+    MVP Software
+
+    Cer 
+    2013-05-30
+    35  
+    Zivojin Trifunovic
+
+    Chaotic Catalysts 
+    2014-03-09
+    9  
+    Razorflame
+
+    Choriban Levels 
+    2010-11-28
+    53  
+    Martí Homs Caussa
+
+    Chrysalis Collection 
+    2012-02-19
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 10 
+    2017-04-25
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 2 
+    2012-03-06
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 3 
+    2012-04-07
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 4 
+    2012-06-03
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 5 
+    2014-03-25
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 6 
+    2014-03-30
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 7 
+    2014-04-03
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 8 
+    2014-04-05
+    50  
+    David Buchweitz
+
+    Chrysalis Collection 9 
+    2014-04-13
+    50  
+    David Buchweitz
+
+    Chrysalis Variations 01 
+    2014-03-14
+    70  
+    Jordi Doménech
+
+    Chrysalis Variations 02 
+    2014-03-18
+    29  
+    Jordi Doménech
+
+    Chuchubi 11 
+    2010-07-01
+    50  
+    Eric F Tchong
+
+    Chuchubi 12 
+    2010-10-28
+    50  
+    Eric F Tchong
+
+    Chuchubi 13 
+    2011-05-16
+    50  
+    Eric F Tchong
+
+    Chuchubi 14 
+    2011-07-02
+    50  
+    Eric F Tchong
+
+    Chuchubi 15 
+    2011-12-28
+    50  
+    Eric F Tchong
+
+    Chuchubi01 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Chuchubi02 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Chuchubi03 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Chuchubi04 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Chuchubi05 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Chuchubi06 
+    2009-06-21
+    50  
+    Eric F Tchong
+
+    Chuchubi07 
+    2010-05-18
+    50  
+    Eric F Tchong
+
+    Chuchubi08 
+    2009-12-07
+    50  
+    Eric F Tchong
+
+    Chuchubi09 
+    2010-01-12
+    50  
+    Eric F Tchong
+
+    Chuchubi10 
+    2010-05-12
+    50  
+    Eric F Tchong
+
+    Classic New level
+    2021-03-16
+    81  
+    Jorge Gloria
+
+    Compact Catalysts 
+    2014-04-10
+    140  
+    Razorflame
+
+    Compact Catalysts 02 
+    2014-05-08
+    152  
+    Razorflame
+
+    Cosmac 
+    2005-10-02
+    36  
+    Eric F Tchong
+
+    Cosmac 10 
+    2005-10-02
+    50  
+    Eric F Tchong
+
+    Cosmac 2 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Cosmac 3 
+    2005-10-02
+    50  
+    Eric F Tchong
+
+    Cosmac 4 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Cosmac 5 
+    2005-10-02
+    75  
+    Eric F Tchong
+
+    Cosmac 6 
+    2005-10-02
+    55  
+    Eric F Tchong
+
+    Cosmac 7 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Cosmac 8 
+    2005-10-02
+    61  
+    Eric F Tchong
+
+    Cosmac 9 
+    2005-10-02
+    50  
+    Eric F Tchong
+
+    Cosmonotes 
+    2010-08-03
+    20  
+    Aymeric du Peloux
+
+    Cosmopoly 
+    2010-08-03
+    19  
+    Aymeric du Peloux
+
+    Cubes & Tubes 
+    2005-10-02
+    20  
+    Doreen Kaufmann
+
+    David W. Skinner Arranged 
+    2014-03-01
+    366  
+    David W Skinner
+
+    DD-1 
+    2014-03-14
+    50  
+    David Dahlem
+
+    DD-2 
+    2014-03-18
+    99  
+    David Dahlem
+
+    Demons & Diamonds 
+    2005-10-02
+    20  
+    Doreen Kaufmann
+
+    dh5 
+    2010-08-05
+    20  
+    David Holland
+
+    Dimitri & Yorick 
+    2005-10-02
+    61  
+    Jaques Duthen
+
+    Disciple 
+    2010-08-09
+    50  
+    Crazy Monk
+
+    Drina 
+    2013-04-28
+    68  
+    Zivojin Trifunovic
+
+    Dunav 
+    2013-07-07
+    50  
+    Zivojin Trifunovic
+
+    Dushi 01 
+    2012-04-15
+    50  
+    Eric F Tchong
+
+    Dushi 02 
+    2012-07-17
+    52  
+    Eric F Tchong
+
+    Dushi 03 
+    2013-12-15
+    50  
+    Eric F Tchong
+
+    Dushi 04 
+    2013-04-08
+    50  
+    Eric F Tchong
+
+    Dushi 05 
+    2013-10-06
+    48  
+    Eric F Tchong
+
+    Dushi 06 
+    2013-12-01
+    51  
+    Eric F Tchong
+
+    Dushi 07 
+    2014-05-01
+    61  
+    Eric F Tchong
+
+    Dushi 08 
+    2014-09-29
+    50  
+    Eric F Tchong
+
+    Dushi 09 
+    2014-12-05
+    54  
+    Eric F Tchong
+
+    Dushi 10 
+    2015-05-22
+    50  
+    Eric F Tchong
+
+    Dushi 11 
+    2017-12-13
+    50  
+    Eric F Tchong
+
+    Easy 5 Boxes New level
+    2021-03-16
+    50  
+    Jorge Gloria
+
+    Eric F. Tchong Arranged 
+    2014-03-01
+    180  
+    Eric F Tchong
+
+    Erika 
+    2013-05-18
+    1  
+    Schindler Zoltán
+
+    Erim Sever Collection 
+    2005-10-02
+    273  
+    Erim Sever
+
+    Escapology 
+    2015-01-27
+    15  
+    niwa
+
+    Essai 
+    2010-05-18
+    7  
+    Sylvie from France
+
+    Faux pas 
+    2010-05-18
+    1  
+    Pat Perrodon
+
+    Fibonacci Challenge 
+    2015-03-30
+    26  
+    Kevin Cassol
+
+    Fiery Catalysts 
+    2014-03-09
+    3  
+    Razorflame
+
+    Five Brothers 
+    2013-06-22
+    5  
+    Dries de Clercq, Marko Dzekic
+
+    Flatland 
+    2010-05-18
+    20  
+    Edwin Abbot
+
+    Fly 
+    2010-05-18
+    3  
+    Tim LeFevre
+
+    Fontana 
+    2013-02-23
+    31  
+    Zivojin Trifunovic
+
+    Frantisek Pokorny collection 
+    2010-08-03
+    103  
+    Frantisek Pokorny
+
+    Funny Template Levels 
+    2010-11-24
+    99  
+    Martí Homs Caussa
+
+    Gabi & Jenny 
+    2011-03-04
+    5  
+    Gabi Hanisch
+
+    Gate 
+    2014-03-14
+    4  
+    Dries de Clercq
+
+    Ghislain Martin Arranged 
+    2014-03-02
+    90  
+    Ghislain Martin
+
+    Grig Challenge Variation 
+    2005-10-02
+    50  
+    Buddy Casamis
+
+    Grigr 2001 
+    2005-10-02
+    100  
+    Evgeniy Grigoriev
+
+    Grigr 2002 
+    2005-10-02
+    40  
+    Evgeniy Grigoriev
+
+    Grigr Challenge 
+    2005-10-02
+    5  
+    Evgeniy Grigoriev
+
+    Grigr Challenge 3 
+    2016-01-18
+    6  
+    Grigr
+
+    Grigr Challenge Remodeled 
+    2005-10-02
+    6  
+    Vipul Patel
+
+    Grigr Comet 
+    2009-12-22
+    30  
+    Evgeniy Grigoriev
+
+    Grigr Special 
+    2005-10-02
+    40  
+    Evgeniy Grigoriev
+
+    Grigr Star 
+    2009-12-22
+    30  
+    Evgeniy Grigoriev
+
+    Grigr Sun 
+    2009-12-28
+    10  
+    Evgeny Grigoriev
+
+    Gucevo 
+    2013-02-15
+    28  
+    Zivojin Trifunovic
+
+    Guichard 
+    2014-04-12
+    46  
+    Guichard
+
+    Gyjgw Arranged 
+    2014-03-02
+    49  
+    Gyjgw
+
+    Gyjgw Collection 
+    2014-03-16
+    295  
+    Gyjgw
+
+    Help 
+    2013-05-18
+    10  
+    Milutin Negovanovic
+
+    Homz Levels 
+    2010-11-24
+    200  
+    Martí Homs Caussa
+
+    Homz Levels Part II 
+    2010-11-28
+    49  
+    Martí Homs Caussa
+
+    Howard Levels 1 
+    2005-10-02
+    100  
+    Howard Abed
+
+    Howard's Fourth Set 
+    2005-10-02
+    32  
+    Howard Abed
+
+    Howard's Second Set 
+    2005-10-02
+    40  
+    Howard Abed
+
+    Howard's Third Set 
+    2005-10-02
+    40  
+    Howard Abed
+
+    Initial Trouble 
+    2005-10-02
+    12  
+    Andre Bernier
+
+    Initiation 
+    2014-02-16
+    1  
+    Carlos Montiers
+
+    Ionic Catalysts 
+    2013-12-22
+    1205  
+    Razorflame
+
+    jcd levels 
+    2005-10-02
+    17  
+    John C Davis
+
+    Jean-Pierre Kent 
+    2010-08-05
+    75  
+    Jean-Pierre Kent
+
+    Joke 
+    2010-05-18
+    4  
+    Perka
+
+    Kalle1 
+    2005-10-02
+    12  
+    Karl-Heinz Böhm
+
+    KEAS Collection 
+    2005-10-02
+    26  
+    Keijo Sopuli
+
+    Kenyam Set A 
+    2010-08-04
+    45  
+    Kenya Maruyama
+
+    Kevin 01 
+    2012-09-17
+    100  
+    Kevin B Reilly
+
+    Kevin 02 
+    2012-09-19
+    100  
+    Kevin B Reilly
+
+    Kevin 03 
+    2012-09-20
+    100  
+    Kevin B Reilly
+
+    Kevin 04 
+    2012-09-22
+    100  
+    Kevin B Reilly
+
+    Kevin 05 
+    2012-09-24
+    100  
+    Kevin B Reilly
+
+    Kevin 06 
+    2012-09-27
+    100  
+    Kevin B Reilly
+
+    Kevin 07 
+    2012-10-15
+    100  
+    Kevin B Reilly
+
+    Kevin 08 
+    2012-10-19
+    100  
+    Kevin B Reilly
+
+    Kevin 09 
+    2012-11-27
+    100  
+    Kevin B Reilly
+
+    Kevin 10 
+    2014-02-04
+    100  
+    Kevin B Reilly
+
+    Kevin 11 
+    2014-02-04
+    100  
+    Kevin B Reilly
+
+    Kevin 12 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 13 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 14 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 15 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 16 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 17 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 18 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 19 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 20 
+    2014-02-25
+    100  
+    Kevin B Reilly
+
+    Kevin 21 
+    2014-02-25
+    53  
+    Kevin B Reilly
+
+    Kevin B. Reilly Arranged 
+    2014-03-02
+    162  
+    Kevin B Reilly
+
+    Kisser 
+    2005-10-02
+    4  
+    Kirill
+
+    Kobus Theron collection 
+    2005-10-02
+    107  
+    Kobus Theron
+
+    Kokoban 
+    2005-10-02
+    41  
+    François Marques
+
+    Kurt Nittel 1 
+    2014-04-13
+    90  
+    Kurt Nittel
+
+    Kurt Nittel 2 
+    2014-04-17
+    100  
+    Kurt Nittel
+
+    La Golondrina 01 
+    2012-02-08
+    12  
+    Eric F Tchong
+
+    Laizhufu and LZY Arranged 
+    2014-03-02
+    104  
+    Laizhufu, LZY
+
+    Learning Sokoban 
+    2010-05-18
+    37  
+    Draku
+
+    Lexical Catalysts 
+    2014-03-06
+    2  
+    Razorflame
+
+    Li Jin You Collection 
+    2014-03-20
+    361  
+    Li Jin You
+
+    Lined 
+    2014-04-13
+    37  
+    Dries de Clercq
+
+    Loma 
+    2010-05-18
+    60  
+    Many Authors, see each level
+
+    Longevity 
+    2014-03-11
+    6  
+    Razorflame
+
+    MacTommy inventions 
+    2014-03-02
+    50  
+    MacTommy
+
+    Magic Pearls 
+    2014-03-08
+    100  
+    Ward De Langhe
+
+    Many Boxes 
+    2012-01-25
+    6  
+    Reinhard Hielscher
+
+    Maps After All 
+    2010-11-24
+    125  
+    Martí Homs Caussa
+
+    Mario Bonenfant collection 
+    2005-10-02
+    30  
+    Mario Bonenfant
+
+    Mass Remodel 
+    2014-04-03
+    2304  
+    Many Authors, see each level
+
+    Master Head 
+    2010-05-18
+    45  
+    Union Software of Silesia
+
+    Mastervip 
+    2005-10-02
+    66  
+    Vipul Patel
+
+    Maximum 100,000 moves 
+    2005-10-02
+    15  
+    Vipul Patel
+
+    MF8 Sokoban Competition 
+    2011-06-14
+    16  
+    MF8: Many authors
+
+    Micro Cosmos 
+    2005-10-02
+    40  
+    Aymeric du Peloux
+
+    Microban 
+    2005-10-02
+    155  
+    David W Skinner
+
+    Microban 01 Arranged 
+    2014-03-30
+    3  
+    York Shen
+
+    Microban 02 Arranged 
+    2014-04-03
+    11  
+    York Shen
+
+    Microban II 
+    2010-02-19
+    135  
+    David W Skinner
+
+    Microban III 
+    2010-02-19
+    101  
+    David W Skinner
+
+    Microban IV 
+    2011-01-13
+    102  
+    David W Skinner
+
+    Mill 
+    2014-03-17
+    1  
+    Dries de Clercq
+
+    Mill Remodel 
+    2014-03-21
+    5  
+    Dries de Clercq, Mark, anian
+
+    Mini Cosmos 
+    2005-10-02
+    40  
+    Aymeric du Peloux
+
+    Mitija 
+    2012-03-06
+    20  
+    Milutin Negovanovic
+
+    Mitija 1 
+    2012-04-02
+    40  
+    Milutin Negovanovic
+
+    Mitija 2 
+    2012-12-18
+    50  
+    Milutin Negovanovic
+
+    Mitija 3 
+    2013-01-14
+    16  
+    Milutin Negovanovic
+
+    Mitija 4 
+    2013-04-19
+    40  
+    Milutin Negovanovic
+
+    Monde 
+    2010-08-03
+    266  
+    Ghislain Martin
+
+    Monry and Panda Arranged 
+    2014-03-21
+    118  
+    monry, Panda
+
+    Monry Collection 
+    2014-03-10
+    339  
+    monry
+
+    Monster Sokoban 
+    2014-03-08
+    56  
+    Hirohiko Nakamiya
+
+    More Bugs collections 
+    2005-10-02
+    737  
+    Buddy Casamis
+
+    More Magic Pearls 
+    2014-03-13
+    15  
+    Ward De Langhe
+
+    Mulholland 2 
+    2005-10-02
+    73  
+    Shaggath
+
+    Mulholland D 
+    2005-10-02
+    57  
+    Shaggath
+
+    Myriocosmos 
+    2010-08-03
+    13  
+    Aymeric du Peloux
+
+    Nabo Cosmos 
+    2005-10-02
+    40  
+    Aymeric du Peloux
+
+    Nakamiya 
+    2012-09-20
+    10  
+    Hirohiko Nakamiya
+
+    Nakamiya Joy 
+    2012-09-19
+    8  
+    Hirohiko Nakamiya
+
+    Nakamiya Limit 
+    2012-09-22
+    6  
+    Hirohiko Nakamiya
+
+    Nakamiya Practice 
+    2012-09-22
+    12  
+    Hirohiko Nakamiya
+
+    Namo 
+    2017-02-27
+    37  
+    Vipul Patel
+
+    New Year 
+    2014-03-20
+    100  
+    Alberto García
+
+    Novoban 
+    2005-10-02
+    50  
+    François Marques
+
+    Numbers 
+    2005-10-02
+    10  
+    François Marques
+
+    Numbers by DrFogh 
+    2017-12-23
+    12  
+    DrFogh
+
+    Original & Extra 
+    2010-05-26
+    90  
+    Thinking Rabbit
+
+    Original 51-90 remodeled 
+    2009-09-07
+    40  
+    Eric F Tchong
+
+    Original Extra Sharpen 
+    2017-12-23
+    41  
+    DrFogh, Archanfel, Joseph L Traub
+
+    Original01 
+    2017-12-23
+    50  
+    DrFogh
+
+    Original02 
+    2017-12-23
+    50  
+    DrFogh
+
+    Orimaze 
+    2014-03-10
+    5  
+    Dries de Clercq
+
+    Orimaze 2 
+    2014-03-07
+    3  
+    Dries de Clercq
+
+    Orimaze-variations 
+    2014-03-13
+    12  
+    Dries de Clercq
+
+    Pacov 
+    2013-12-28
+    33  
+    Zivojin Trifunovic
+
+    Park 
+    2013-05-03
+    40  
+    Zivojin Trifunovic
+
+    Passing By 
+    2015-07-02
+    15  
+    Andrej Cerjak
+
+    Patera 
+    2005-10-02
+    10  
+    Thomas Reinke
+
+    Paulje 
+    2013-08-16
+    54  
+    Zivojin Trifunovic
+
+    Payback 01 
+    2012-01-02
+    100  
+    Findus
+
+    Payback 02 
+    2012-01-28
+    100  
+    Findus
+
+    Payback 03 
+    2012-02-27
+    100  
+    Findus
+
+    Payback 04 
+    2012-03-28
+    100  
+    Findus
+
+    Payback 05 
+    2012-04-29
+    100  
+    Findus
+
+    Payback 06 
+    2012-05-29
+    100  
+    Findus
+
+    Payback 07 
+    2012-10-26
+    100  
+    Findus
+
+    Payback 08 
+    2012-12-06
+    100  
+    Findus
+
+    Payback 09 
+    2012-12-19
+    100  
+    Findus
+
+    Payback 10 
+    2013-01-29
+    100  
+    Findus
+
+    Perfect 
+    2014-03-30
+    115  
+    Thinking Rabbit
+
+    Petitesse 
+    2015-01-28
+    18  
+    niwa
+
+    Pico Cosmos 
+    2005-10-02
+    20  
+    Aymeric du Peloux
+
+    Picolevels 
+    2010-11-24
+    43  
+    Martí Homs Caussa
+
+    Piramida 
+    2014-01-02
+    22  
+    Zivojin Trifunovic
+
+    Podrinje 
+    2013-05-07
+    50  
+    Zivojin Trifunovic
+
+    Puzzle 
+    2005-10-02
+    100  
+    Alberto García
+
+    Quagmire 
+    2005-10-02
+    50  
+    Thomas Reinke
+
+    Quagmire 2 
+    2011-11-24
+    50  
+    Thomas Reinke
+
+    Quagmire 3 
+    2014-04-03
+    100  
+    Thomas Reinke
+
+    Rdlom 
+    2014-03-17
+    166  
+    Roger Delaporte
+
+    Rebus 1 
+    2013-05-27
+    16  
+    Milutin Negovanovic
+
+    Rectangled 
+    2014-04-13
+    11  
+    Dries de Clercq
+
+    Red Star 
+    2013-07-30
+    21  
+    Milutin Negovanovic
+
+    Remodel Club 
+    2014-03-07
+    107  
+    Evgeny Grigoriev
+
+    Remodeling 
+    2010-01-27
+    27  
+    Marko Dzekic
+
+    Revenge 
+    2014-04-05
+    292  
+    Thinking Rabbit
+
+    Revenge 13 
+    2011-01-28
+    50  
+    Marcus Hof
+
+    Revenge 14 
+    2011-02-01
+    55  
+    Marcus Hof
+
+    Revenge 15 
+    2011-02-08
+    51  
+    Marcus Hof
+
+    Revenge 16 
+    2011-02-15
+    50  
+    Marcus Hof
+
+    Revenge 17 
+    2011-03-09
+    50  
+    Marcus Hof
+
+    Revenge 18 
+    2011-03-27
+    50  
+    Marcus Hof
+
+    Revenge 19 
+    2011-04-07
+    50  
+    Marcus Hof
+
+    Revenge 20 
+    2011-04-13
+    50  
+    Marcus Hof
+
+    Revenge 21 
+    2011-04-17
+    50  
+    Marcus Hof
+
+    Revenge 22 
+    2011-05-09
+    109  
+    Marcus Hof
+
+    Revenge 23 
+    2011-05-17
+    75  
+    Marcus Hof
+
+    Revenge 24 
+    2011-05-30
+    50  
+    Marcus Hof
+
+    Revenge 25 
+    2011-06-04
+    50  
+    Marcus Hof
+
+    Revenge 26 
+    2011-06-20
+    50  
+    Marcus Hof
+
+    Revenge 27 
+    2011-07-03
+    50  
+    Marcus Hof
+
+    Revenge 28 
+    2011-07-21
+    50  
+    Marcus Hof
+
+    Revenge 29 
+    2011-08-06
+    50  
+    Marcus Hof
+
+    Revenge 30 
+    2011-08-18
+    50  
+    Marcus Hof
+
+    Revenge 31 
+    2011-09-17
+    50  
+    Marcus Hof
+
+    Revenge 32 
+    2011-09-24
+    50  
+    Marcus Hof
+
+    Revenge 33 
+    2011-10-01
+    50  
+    Marcus Hof
+
+    Revenge 34 
+    2011-10-18
+    66  
+    Marcus Hof
+
+    Revenge 35 
+    2011-11-29
+    50  
+    Marcus Hof
+
+    Revenge 36 
+    2012-01-23
+    130  
+    Marcus Hof
+
+    Revenge 37 
+    2012-02-26
+    140  
+    Marcus Hof
+
+    Revenge 38 
+    2012-05-02
+    56  
+    Marcus Hof
+
+    Revenge 39 
+    2012-10-27
+    50  
+    Marcus Hof
+
+    Revenge Collection 01 
+    2010-11-24
+    89  
+    Marcus Hof
+
+    Revenge Collection 02 
+    2010-06-07
+    76  
+    Marcus Hof
+
+    Revenge Collection 03 
+    2010-08-26
+    105  
+    Marcus Hof
+
+    Revenge Collection 04 
+    2010-09-16
+    105  
+    Marcus Hof
+
+    Revenge Collection 05 
+    2010-09-16
+    62  
+    Marcus Hof
+
+    Revenge Collection 06 
+    2010-09-24
+    58  
+    Marcus Hof
+
+    Revenge Collection 07 
+    2010-12-06
+    50  
+    Marcus Hof
+
+    Revenge Collection 08 
+    2010-12-08
+    50  
+    Marcus Hof
+
+    Revenge Collection 09 
+    2010-12-10
+    50  
+    Marcus Hof
+
+    Revenge Collection 10 
+    2010-12-10
+    126  
+    Marcus Hof
+
+    Revenge Collection 11 
+    2010-12-21
+    52  
+    Marcus Hof
+
+    Revenge Collection 12 
+    2011-01-08
+    50  
+    Marcus Hof
+
+    Richard Weston Collection 
+    2005-10-02
+    10  
+    Richard Weston
+
+    Saquarema 
+    2020-10-19
+    40  
+    Jorge Gloria
+
+    Sasquatch 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch II 
+    2010-02-19
+    50  
+    David W Skinner
+
+    Sasquatch III 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch IV 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch IX 
+    2009-04-29
+    50  
+    David W Skinner
+
+    Sasquatch V 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch VI 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch VII 
+    2010-05-28
+    50  
+    David W Skinner
+
+    Sasquatch VIII 
+    2005-10-02
+    50  
+    David W Skinner
+
+    Sasquatch X 
+    2011-01-13
+    50  
+    David W Skinner
+
+    Sasquatch XI 
+    2011-01-13
+    50  
+    David W Skinner
+
+    Sasquatch XII 
+    2014-02-04
+    50  
+    David W Skinner
+
+    SBMendonca 02 
+    2020-10-21
+    50  
+    TIAOA
+
+    Scoria 
+    2005-10-02
+    20  
+    Thomas Reinke
+
+    Scoria 2 
+    2005-10-02
+    20  
+    Thomas Reinke
+
+    Scoria 3 
+    2009-09-20
+    20  
+    Thomas Reinke
+
+    Serena1 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Serena2 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Serena3 
+    2005-10-02
+    26  
+    Eric F Tchong
+
+    Serena4 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Serena5 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Serena6 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Serena7 
+    2005-10-02
+    40  
+    Eric F Tchong
+
+    Serena8 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Serena9 
+    2005-10-02
+    100  
+    Eric F Tchong
+
+    Serg Belyaev 1 
+    2010-08-06
+    100  
+    Serg Belyaev
+
+    Serg Belyaev 2 
+    2010-08-06
+    100  
+    Serg Belyaev
+
+    Serg Belyaev 3 
+    2010-08-06
+    100  
+    Serg Belyaev
+
+    Serg Belyaev 4 
+    2010-11-16
+    99  
+    Serg Belyaev
+
+    Serg Belyaev 5 
+    2010-08-06
+    100  
+    Serg Belyaev
+
+    Serg Belyaev 6 
+    2010-08-06
+    40  
+    Serg Belyaev
+
+    Sharpen Collection 
+    2005-10-02
+    150  
+    Sven Egevad
+
+    Simple collection 
+    2005-10-02
+    61  
+    Phil Shapiro
+
+    Simplistic 
+    2014-04-17
+    2  
+    yotyot
+
+    Simply 
+    2011-03-04
+    24  
+    Lars Nilsson
+
+    Smaller, thinner, easier, better 
+    2010-11-28
+    28  
+    Martí Homs Caussa
+
+    SOKO-BONUS 
+    2005-10-02
+    1  
+    Einar Saukas
+
+    Sokoban Junior 1 
+    2014-03-15
+    58  
+    Laura Wheeler
+
+    Sokoban Junior 2 
+    2014-03-16
+    54  
+    Laura Wheeler
+
+    Sokoban Online 
+    2005-10-02
+    15  
+    François Marques
+
+    Sokoban Original Puzzles Tribute L 
+    2014-07-28
+    14  
+    Wayne Campbell
+
+    Sokobet 
+    2016-02-27
+    29  
+    DrFogh
+
+    Sokobig 70 
+    2014-04-19
+    69  
+    Howard Abed
+
+    Sokobig 80 
+    2014-04-19
+    48  
+    Howard Abed
+
+    Sokobig Remodels 
+    2014-04-19
+    7  
+    Various Authors
+
+    SokoChallenge 
+    2010-07-09
+    25  
+    Kevin Cassol
+
+    SokoCreation 
+    2014-04-13
+    74  
+    Howard Abed
+
+    Sokocrisis 
+    2017-12-13
+    34  
+    Vipul Patel
+
+    Sokodeal 
+    2005-10-02
+    100  
+    Vipul Patel
+
+    Sokogen-990602 Levels 
+    2005-10-02
+    78  
+    Jaques Duthen
+
+    SokoLasse 
+    2010-05-17
+    50  
+    Lars Nilsson
+
+    Sokolasse 2 
+    2016-05-28
+    31  
+    Lars Nilsson
+
+    Sokolate 
+    2005-10-02
+    44  
+    François Marques
+
+    Sokomania 
+    2005-10-02
+    124  
+    Thomas Reinke
+
+    Sokompact 
+    2005-10-02
+    51  
+    François Marques
+
+    Sokophobia 
+    2005-10-02
+    30  
+    Vipul Patel
+
+    SokoSpace 
+    2009-06-09
+    17  
+    Marko Dzekic
+
+    SokoStation 
+    2014-04-05
+    110  
+    Ghislain Martin
+
+    Soloban 
+    2005-10-02
+    8  
+    François Marques
+
+    Sonic 
+    2014-03-07
+    26  
+    Aleksey Krupenko
+
+    Soundextensions and Circles 
+    2005-10-02
+    7  
+    W. M. Dekker
+
+    Spirals 
+    2005-10-02
+    7  
+    Kseniya Mierzejewska
+
+    Spiros 01 
+    2012-09-19
+    194  
+    Spiros Mantzoukis
+
+    Spiros 02 
+    2012-09-20
+    195  
+    Spiros Mantzoukis
+
+    Spiros 03 
+    2012-09-22
+    200  
+    Spiros Mantzoukis
+
+    Spiros 04 
+    2012-09-24
+    200  
+    Spiros Mantzoukis
+
+    Spiros 05 
+    2012-09-27
+    200  
+    Spiros Mantzoukis
+
+    Spiros 06 
+    2012-10-23
+    200  
+    Spiros Mantzoukis
+
+    Spiros 07 
+    2012-12-11
+    200  
+    Spiros Mantzoukis
+
+    Square Dance 
+    2015-01-27
+    33  
+    niwa
+
+    Squared 
+    2014-04-17
+    42  
+    Dries de Clercq
+
+    Stari Fijaker 
+    2017-12-13
+    7  
+    Milan Vukosavljevic
+
+    Still More collection 
+    2005-10-02
+    35  
+    J. Franklin Mentzer
+
+    Strategy 
+    2005-10-02
+    100  
+    Alberto García
+
+    Sunday Warmup 
+    2010-08-23
+    2  
+    Matthias 'muh' Pauligk
+
+    Svens Collection 
+    2005-10-02
+    1911  
+    Sven Egevad
+
+    Sylvain Gravejat 
+    2012-09-16
+    21  
+    Sylvain Gravejat
+
+    Symmetrixx 
+    2014-04-05
+    20  
+    Seppolino
+
+    Takaken collection 
+    2005-10-02
+    7  
+    Ken'ichiro Takahashi (takaken)
+
+    Tammy Rock 
+    2012-02-13
+    29  
+    Eric F Tchong
+
+    TBox 
+    2005-10-02
+    50  
+    Thomas Reinke
+
+    TBox 2 
+    2005-10-02
+    50  
+    Thomas Reinke
+
+    TBox 3 
+    2005-10-02
+    25  
+    Thomas Reinke
+
+    TBox 4 
+    2005-10-02
+    25  
+    Thomas Reinke
+
+    TBox 5 
+    2005-10-02
+    50  
+    Thomas Reinke
+
+    The Adventurer 
+    2005-10-02
+    17  
+    Ivelin Georgiev Ivanov
+
+    The Bagatelle 2 collection 
+    2005-10-02
+    12  
+    David Holland
+
+    The bagatelle collection 
+    2005-10-02
+    20  
+    David Holland
+
+    The Cantrip 2 collection 
+    2005-10-02
+    13  
+    David Holland
+
+    The Cantrip collection 
+    2005-10-02
+    20  
+    David Holland
+
+    The dh1 collection 
+    2005-10-02
+    10  
+    David Holland
+
+    The dh2 collection 
+    2005-10-02
+    10  
+    David Holland
+
+    The First One 
+    2005-10-02
+    1  
+    Muhammad Umar
+
+    The maelstrom collection 
+    2005-10-02
+    21  
+    David Holland
+
+    The SokEvo collection 
+    2005-10-02
+    107  
+    Lee Haywood
+
+    The SokHard collection 
+    2005-10-02
+    169  
+    Lee Haywood
+
+    The Solver's unsolvable 
+    2010-08-23
+    3  
+    Matthias 'muh' Pauligk
+
+    The Warehouse I - Vertical Mobility 
+    2010-05-18
+    50  
+    Rick Sladkey
+
+    Thinking Rabbit Arranged 
+    2014-03-16
+    557  
+    Thinking Rabbit
+
+    Title Screens 
+    2005-10-02
+    4  
+    John Polhemus
+
+    Trapdooooooooors 
+    2005-10-02
+    1  
+    Wilfrid Geiser
+
+    Twisty 
+    2005-10-02
+    3  
+    Martin P Holland
+
+    V2009 
+    2010-05-18
+    158  
+    Shaggath
+
+    V2010 
+    2009-12-28
+    151  
+    Shaggath
+
+    Various 
+    2014-04-17
+    24  
+    Dries de Clercq
+
+    Vladimir Tockic collection 
+    2017-12-13
+    10  
+    Vladimir Tockic
+
+    Vladimir Tockic Collection 2 Demo 
+    2021-01-09
+    1  
+    Vladimir Tockic
+
+    Warehouse 
+    2014-03-10
+    372  
+    Iroh
+
+    YASGen 
+    2010-08-04
+    28  
+    Brian Damgaard
+
+    YASGood 
+    2005-10-02
+    50  
+    Thomas Reinke
+
+    York Shen Collection 
+    2014-03-25
+    701  
+    York Shen
+
+    Yoshio Murase's Auto-Generated 
+    2005-10-02
+    52  
+    Yoshio Murase
+
+    Yoshio Murase's Hand-Made 
+    2010-05-26
+    54  
+    Yoshio Murase
+
+    Zbigniew Kornas 
+    2014-03-16
+    49  
+    Zbigniew Kornas
+
+    Zelja 
+    2012-02-25
+    2  
+    Zeljko Negovanovic
+
+    Zelja 1 
+    2012-03-06
+    18  
+    Zeljko Negovanovic
+
+    Zig Zag Plus 
+    2014-03-13
+    100  
+    Alberto García
+
+    Zika 
+    2012-03-06
+    25  
+    Zivojin Trifunovic
+
+    Zika 1 
+    2012-12-18
+    43  
+    Zivojin Trifunovic
+
+    Zone 26 
+    2014-04-13
+    117  
+    Dries de Clercq

@@ -1,0 +1,1074 @@
+#########
+# .   . #
+# $.#.$ #
+## $.$ ##
+# $.#.$ #
+# .$ $. #
+#.$ * $.#
+# .$ $. #
+# $.#.$ #
+## $+$ ##
+# $.#.$ #
+# .$ $. #
+#.$ * $.#
+# .$ $. #
+# $. .$ #
+#########
+; Chrysalis Collection 1 #7 Helix
+; Copyright: David Buchweitz, Jordi Doménech
+
+#########
+#.      #
+# ##*## #
+# $   $ #
+#.#.# $ #
+# . $ # #
+#.#.$ $ #
+# *  #$ #
+# ***#. #
+##   @ ##
+ #######
+; Chrysalis Collection 1 #9 Scorpion
+; Copyright: David Buchweitz, Jordi Doménech
+
+   #####
+  ##   ####
+###  $$#  #
+#  .## #. #
+# #  $ .  #
+# # #+#$$##
+# # .$.   #
+# ###.# # #
+# . $ $.$ #
+###     ###
+  #######
+; Chrysalis Collection 1 #11 Interchange
+; Copyright: David Buchweitz, Jordi Doménech
+
+########
+#      ##
+# $ $# @##
+##$#..#  #
+ # # ..# #
+ # # $.. #
+ # $ $  ##
+ # ####.#
+ #      #
+ #$#### #
+ #      #
+ ########
+; Chrysalis Collection 1 #13 Sunday Drive
+; Copyright: David Buchweitz, Jordi Doménech
+
+####################
+#                  #
+# # # #.# ######$# #
+# $ $ $ $ #        #
+# # ###.# # ####$# #
+# # # $ # #    #   #
+# # # #.# ####$#$# #
+# # # #  . . . . . #
+# #   #.#### ###$# #
+# ##### . * .      #
+#      .# $  ##### #
+# #$### ####.#   # #
+# . . . . .  # # # #
+# #$#$#### #.# # # #
+#   #    # # $ # # #
+# #$#### # #.### # #
+#        # $ $ $ $ #
+# #$###### #.# # # #
+#        @         #
+####################
+; Chrysalis Collection 1 #14 Whirlpool
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+ #       #
+ # ### $ #
+ # * **# #
+## * . # #
+#  * + # #
+#  * **# #
+## ##* $ #
+ #       #
+ #########
+; Chrysalis Collection 1 #16 The Cell
+; Copyright: David Buchweitz, Jordi Doménech
+
+   #######
+####.....###
+#   $$$$$$ #
+# #......# #
+# #$$$$$$# #
+# # .....@ #
+# ##$$$$## #
+#          #
+############
+; Chrysalis Collection 1 #19 Deceiver
+; Copyright: David Buchweitz, Jordi Doménech
+
+               #####
+               #   #
+  ############## # #
+  #         .....  #
+  # ########$$$$.###
+  # #          $.#
+  # # $ $ ##.##$.#
+  # #$ $ ## .. $.#
+  # # $ ## # # # #
+  # #  ##   ## # #
+  # # ##   ##  # #
+  # # # # ## $ # #
+  #.$ .. ## $ $# #
+  #.$##.## $ $ # #
+  #.$    @     # #
+###.$$$$######## #
+#  .....         #
+# # ##############
+#   #
+#####
+; Chrysalis Collection 1 #20 Fallen Star
+; Copyright: David Buchweitz, Jordi Doménech
+
+###########
+##   .   ##
+# $# # #$ #
+# .$ $ $. #
+# $.## .$ #
+##*$ + $.##
+# $. ##.$ #
+# .$ $ $. #
+# #. # .# #
+##   .   ##
+###########
+; Chrysalis Collection 1 #23 Shield
+; Copyright: David Buchweitz, Jordi Doménech
+
+##########
+#        #
+# # ###$##
+#  $..  .#
+# #. $#$ #
+# #.$+$. #
+# #$#$#. #
+# $ $..$##
+# #.    ##
+##########
+; Chrysalis Collection 1 #24 Trapped
+; Copyright: David Buchweitz, Jordi Doménech
+
+##########
+#        #   #####
+# $ $$#  #   #.  #
+# ##  #$ #####.# #
+#  ##.*  .    .$ #
+# $#  # $##### ###
+#  $ $#. #   # #
+# ##  $$##   #$#
+#     #  #   # #
+###.#### ##### #
+  # #  #  @  # #
+  # #  #####.#.####
+  # #      #      #
+  # #      # #.## #
+### ######## # $  #
+# ...  $   .   #  #
+# # ########.###$ #
+#   #      #      #
+#####      ########
+; Chrysalis Collection 1 #25 Skytracks
+; Copyright: David Buchweitz, Jordi Doménech
+
+   ###########
+   #         #
+   # $ $ $ $ #
+ ### ###.### ###
+ # .  $   $  . #
+ # # #.#.#.# # #
+ # $ $ $ $ $ $ #
+######+###.### #
+# .  $   # # # #
+# .$ $$$ # # # #
+##.###.###.# # #
+ # ## .   .# # #
+ #  . . ## ### #
+ #########     #
+         #######
+; Chrysalis Collection 1 #27 Majestic
+; Copyright: David Buchweitz, Jordi Doménech
+
+    ####
+   ##  #####
+  ## ..... ##
+### .$$$$$. ###
+# $.$$   $$.$ #
+#  .$ ##  $.  #
+##$.$ ...# .$##
+ # *$#.@.#$* #
+##$. #... $.$##
+#  .$  ## $.  #
+# $.$$   $$.$ #
+### .$$$$$. ###
+  ## ..... ##
+   #####  ##
+       ####
+; Chrysalis Collection 1 #32 Omlette
+; Copyright: David Buchweitz, Jordi Doménech
+
+######
+#    #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ #
+#.#  #
+# $$ ####
+#.# $# .###
+#  $@$... #
+# ##### # #
+# . . .   #
+###########
+; Chrysalis Collection 2 #1 Elle
+; Copyright: David Buchweitz, Jordi Doménech
+
+#####
+#   #####
+# $$$ $ #
+#.#.#.#.#
+# #     ##
+#   @ #  #
+#$#$#$#$ #
+# . ...  #
+##########
+; Chrysalis Collection 2 #3 In the cloud
+; Copyright: David Buchweitz, Jordi Doménech
+
+    #####
+    #   #
+  ### # ##
+###. $ . #
+# $ #.##$##
+# #$.+.$  #
+#   #. ## #
+# $.   .$ #
+###$## $# #
+  #       #
+  #########
+; Chrysalis Collection 2 #4 Rabbit
+; Copyright: David Buchweitz, Jordi Doménech
+
+#######################
+# $ .. $ . . $ .. $   #
+#   ##   # #   ##   # #
+##$####$##@##$####$## #
+#   ##   # #   ##   # #
+# $ .. $ . . $ .. $   #
+#######################
+; Chrysalis Collection 2 #7 Tetrissy
+; Copyright: David Buchweitz, Jordi Doménech
+
+  ######
+  #    ###
+  # ##   #
+  #$ #$# #
+  # ...  #
+###$...###
+# $    #
+# #$##$#
+#    @ #
+########
+; Chrysalis Collection 2 #9 Anchor
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+ # . @ . #
+##$#$#$#$##
+#  .$.$.  #
+#  #$ $#  #
+#  . * .  #
+# $.$#$.$ #
+## . . . ##
+ #########
+; Chrysalis Collection 2 #17 Bowtie
+; Copyright: David Buchweitz, Jordi Doménech
+
+###########
+#  #   #  #
+# $.$.$.$ #
+# .$ * $. #
+##$ ... $##
+# .$*@*$. #
+##$ ... $##
+# .$ * $. #
+# $.$.$.$ #
+#  #   #  #
+###########
+; Chrysalis Collection 2 #24 Fangs
+; Copyright: David Buchweitz, Jordi Doménech
+
+      ###########
+      #         #
+  ##### ####### ###
+  #   $ $     $ $ #
+### ### ##### # # ###
+#     $ $     $ $   #
+# #$#$# #####.# #$# #
+# #     ......#   # #
+# #$#$# #####.# #$# #
+#   #   ...@#.# #   #
+# #$#$###.###.###$# #
+# #     #......   # #
+# #$#$# #.##### #$# #
+#       .......     #
+### # # # ##### # # #
+  # # $ $     $ $ # #
+  # ### ##### # ### #
+  #   $ $     $ $   #
+  ##### ####### #####
+      #         #
+      ###########
+; Chrysalis Collection 2 #25 Whirlpool
+; Copyright: David Buchweitz, Jordi Doménech
+
+#################################
+#      #         #  #           #
+# ###.##  . #**. #  . ###. ###.##
+# #    #  # #  # # #  #    *    #
+# #    *  # #  # # #  *    #    #
+# ###* ## * *  #@**   #*#  #### #
+#    * # ## ##*# # #  #       # #
+#    # #  # #  # # #  #       # #
+##$### $  # $  * $  # $*## $### #
+#         # #  #    #           #
+#################################
+; Chrysalis Collection 2 #27 Snakes
+; Copyright: David Buchweitz, Jordi Doménech
+
+         ######
+         #    ##
+        ##$##  #
+    #####   ## #
+   ##     $  # #
+  ##  ## $## # #
+ ##  ## $  # # #
+##  ## $ #$# # #
+#  ## $  @ # # #
+# ## $ ### # # #
+#.# $  # # # # #
+# .$ # # # # # #
+#$#.   # # # # #
+# ##.#$###.# # #
+#  ##. $ . # # #
+##  # .#*# # # #
+ ##   #. $ . # #
+  ######.#.$## #
+       # .$ #  #
+       # #.## ##
+       #   .  #
+       ##   .##
+        ######
+; Chrysalis Collection 2 #28 Which Path
+; Copyright: David Buchweitz, Jordi Doménech
+
+  ###########
+  #     #   #
+ ##$# $ . # #
+ #  . ##### #
+ #  #   #   #
+###$#.#.#$###
+#   # @ #  #
+# ##### .  #
+# # . $ #$##
+#   #     #
+###########
+; Chrysalis Collection 2 #29 Slinky
+; Copyright: David Buchweitz, Jordi Doménech
+
+##########
+#  $   . #
+# $#$#.#.#
+#  $ * * #
+## #.@.# ##
+ # * * $  #
+ #.#.#$#$ #
+ # .   $  #
+ ##########
+; Chrysalis Collection 2 #32 4x4 skewed
+; Copyright: David Buchweitz, Jordi Doménech
+
+    ####
+    #  #
+    # $#
+ ####  ####
+ #   $ $  #
+ # $.....$#
+ ##$.# #. ####
+  # .#+#.$   #
+  # .# #.  $ #
+###$.*.*.$####
+#  $ $ $  #
+# $ ####$ #
+#   #  #  #
+#####  ####
+; Chrysalis Collection 2 #35 Puzzler
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #############
+ #           #
+ # ######### ##
+## #       #  #
+#  #.$$.$$.## #
+# ##$..$..$.  #
+#  $.$$+$$. ###
+### $..$..$.  #
+#  $.$$.$$.## #
+# ##$..$..$#  #
+#  #       # ##
+## ######### #
+ #           #
+ #############
+; Chrysalis Collection 2 #38 Cargo Net with Training Wheels
+; Copyright: David Buchweitz, Jordi Doménech
+
+   ######
+   #    #
+ ###$$# #
+## .  . #
+#  #$$###
+# $$. #
+#  #$.###
+##.#. . #
+ # . .#.##
+ ###.$#  #
+   # .$$ #
+ ###$$#  #
+ # .  . ##
+ # #$$###
+ # @  #
+ ######
+; Chrysalis Collection 2 #42 Passage with Bridge
+; Copyright: David Buchweitz, Jordi Doménech
+
+#####  ####
+#    ##  @#
+# $.$#  $ #
+# .$.$.$  #
+# $...$.##
+ ##$.#.$##
+ ##.$...$ #
+#  $.$.$. #
+# $  #$.$ #
+#   ##    #
+####  #####
+; Chrysalis Collection 2 #43 Rotary
+; Copyright: David Buchweitz, Jordi Doménech
+
+    #####
+##### @ #
+#   # # #
+#   $ $ ##
+##*#.##  #
+#  #..*$ #
+# $...#  #
+#  ##.#$##
+## $ $  #
+ # #    #
+ # #### #
+ #      #
+ ########
+; Chrysalis Collection 2 #46 Center Shuriken
+; Copyright: David Buchweitz, Jordi Doménech
+
+##########
+#        #
+# *  ### #
+## # # # #
+ # # # # #
+ #$#.@.#$#
+ # # # # #
+ # #   # ##
+ # ##   * #
+ #    #   #
+ ##########
+; Chrysalis Collection 3 #6 Touching Sides
+; Copyright: David Buchweitz, Jordi Doménech
+
+     #####
+   ###   #
+   # $$. #
+#### #.#.##
+#  $ # .  #
+# #$ + $# #
+#  . # $  #
+##.#.# ####
+ # *$$ #
+ #   ###
+ #####
+; Chrysalis Collection 3 #8 Easier than it looks
+; Copyright: David Buchweitz, Jordi Doménech
+
+   ########
+  ##      #
+### $#### #
+#  $.$.$  #
+# #.$.$.# #
+#  $.+.$  #
+###.$.$.# #
+ # $.$.$# #
+ # # ##   #
+ #      ###
+ ########
+; Chrysalis Collection 3 #15 Center Pattern
+; Copyright: David Buchweitz, Jordi Doménech
+
+     #####
+     #   # ####
+     # $ ###  #
+     ### #   $#
+       # # $  #
+       # ####.##
+      ## @.....#
+      # ....$.##
+#     ##.## #$#
+##     # $  # #
+ ## ####$ $ # #
+  ### $   ### #
+    #  ## # $ ##
+    ## $  $    #
+     #   ###   #
+     ##### #####
+; Chrysalis Collection 3 #19 Woof Woof
+; Copyright: David Buchweitz, Jordi Doménech
+
+   ########
+####   #  #
+#  $ .*#$ #
+# $##..   #
+#  .# $ $ #
+###.#@#.###
+# $ $ #.  #
+#   ..##$ #
+# $#*. $  #
+#  #   ####
+########
+; Chrysalis Collection 3 #21 Ess
+; Copyright: David Buchweitz, Jordi Doménech
+
+  #########
+  #       #
+###.##### #
+# $ $ $ # #
+# #.#.#.# #
+# # # # # #
+# $ $ $ # #
+# # . . @ #
+# ####### #
+#         #
+###########
+; Chrysalis Collection 3 #22 Runaround
+; Copyright: David Buchweitz, Jordi Doménech
+
+ ######
+ #    #
+## ## #####
+# $   #   #
+# .#    . #
+# $#*#*#$ #
+# .#   #. #
+# $#*@*#$ #
+# .#   #. #
+# $#*#*#$ #
+#      #. #
+######   ##
+     #####
+; Chrysalis Collection 3 #24 Center Six
+; Copyright: David Buchweitz, Jordi Doménech
+
+  ######
+### .  #
+#   $#$##
+# # .#. #
+# @ $#$ #
+### .$. #
+ #  $#$ #
+ #  . . #
+ ########
+; Chrysalis Collection 3 #31 Seashell
+; Copyright: David Buchweitz, Jordi Doménech
+
+ ##########
+ #   .    #
+##$$...$$ #
+#  ##.##  #
+# $$.@.$$ #
+#  ##.##  #
+# $$...$$##
+#    .   #
+##########
+; Chrysalis Collection 3 #32 No idea
+; Copyright: David Buchweitz, Jordi Doménech
+
+####
+#  ######
+#.*.    #
+#..# ## #
+#.#  #  #
+# #  # ##
+# $ $$$@#
+# #     #
+# ###$###
+#     #
+#######
+; Chrysalis Collection 3 #34 Northern Star
+; Copyright: David Buchweitz, Jordi Doménech
+
+    ######
+    #.   #
+ ####.##$##
+ #   .#   #
+##$##.  $ #
+#   #@#   #
+# $  .##$###
+#   #.  $  #
+##$##.###  #
+##   .  $ ##
+#  ###### ##
+#          #
+########   #
+       #####
+; Chrysalis Collection 3 #35 Center Line
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+ #       #
+##$#####.#
+#  #   #.#
+#    @ #.#
+##$##$##.#
+ #       #
+ #$## ## #
+ #       #
+ #########
+; Chrysalis Collection 3 #36 Prison Break
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+ #       #
+##$### #$#
+#  ....# #
+#   $$ # #
+## ##@## ##
+ # # $$   #
+ # #....  #
+ #$# ###$##
+ #       #
+ #########
+; Chrysalis Collection 3 #37 Full Duplex
+; Copyright: David Buchweitz, Jordi Doménech
+
+  #####
+ ##.. ####
+ #  $$.. ##
+ #.#$  # .#
+##. $ $$$.#
+# $  #  $ #
+#.$$$ $ .##
+#. #  $#.#
+## ..$$  #
+ ####@..##
+    #####
+; Chrysalis Collection 3 #40 Cyclone
+; Copyright: David Buchweitz, Jordi Doménech
+
+     #######
+ #####.   .#
+ # $. *## ##
+ # ..#.   #
+ ## # . #$#
+  # $ #   #
+### # $$# #
+#   ### # #
+# #$  @$  #
+#   ###   #
+##### #####
+; Chrysalis Collection 3 #41 Alcatraz
+; Copyright: David Buchweitz, Jordi Doménech
+
+     #####
+  ####   ###
+### $.$* * #
+# ..$# # # #
+#    @     #
+### #####$##
+ #   .    #
+ #   ######
+ #####
+; Chrysalis Collection 3 #42 In the cloud again
+; Copyright: David Buchweitz, Jordi Doménech
+
+  #####
+ ##  @####
+ # $.*.$ ##
+ #$. # .$ #
+##.  $  . #
+# *#$#$#* #
+# .  $  .##
+# $. # .$#
+## $.*.$ #
+ ####   ##
+    #####
+; Chrysalis Collection 3 #43 Easy Omlette
+; Copyright: David Buchweitz, Jordi Doménech
+
+    #####
+  ###   #
+  # @ # #
+###*#$$ #
+# .....##
+# $ #   #
+### #$$ #
+  #   # #
+  ###   #
+    #####
+; Chrysalis Collection 3 #45 Dash
+; Copyright: David Buchweitz, Jordi Doménech
+
+    ####
+#####  #
+#   #  #
+# . * $#
+## ##  #
+ #.## $####
+##        #
+# .#.## # #
+# ##  $ $ #
+#  @ ######
+######
+; Chrysalis Collection 3 #46 Hammerhead
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+##   #   ##
+#  $ * $  #
+# # #$# # #
+# $ ... $ #
+# ###$### #
+# $.#.#.$ #
+#   $.$   #
+##.##.##.##
+ #   @   #
+ #########
+; Chrysalis Collection 3 #47 Tree
+; Copyright: David Buchweitz, Jordi Doménech
+
+    #####
+    #   ###
+   ## #   #
+####  $ $ #
+# ...#$#$ #
+# . . $@$ #
+# .#.#$$$ #
+# . .   ###
+#  ######
+####
+; Chrysalis Collection 3 #48 Springs
+; Copyright: David Buchweitz, Jordi Doménech
+
+#########
+#.....  #
+#.  #.# ##
+#.#$$*$$ #
+#. $ . $ #
+#..*..#$@#
+# #$   $ #
+#  $$$$$ #
+####     #
+   #######
+; Chrysalis Collection 4 #9 Almost Square
+; Copyright: David Buchweitz, Jordi Doménech
+
+  #########
+ ##   #   #
+ # ...  $ #
+ # #$#$#$##
+ #. *..   #
+##.#### $.#
+# .  @  $.#
+# # ### $.#
+# $$# ##$ #
+#   # # $ #
+##### #   #
+      #####
+; Chrysalis Collection 4 #12 Long Vertical Line
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+ #       ##
+ #$$.*..*.#
+## $*$$$$.#
+#....   $.#
+#.$$$@$$$.#
+#.$   ....#
+#.$$$$*$  #
+#.*..*.$$##
+##       #
+ #########
+; Chrysalis Collection 4 #15 Scallywag
+; Copyright: David Buchweitz, Jordi Doménech
+
+##### #####
+#   # #   #
+# #$###$# #
+#  ..$..  #
+###$ *  ###
+  # .@.$#
+###$ *  ###
+#  .*$*.  #
+# #$#.#$# #
+#         #
+###########
+; Chrysalis Collection 4 #16 Puzzle Piece
+; Copyright: David Buchweitz, Jordi Doménech
+
+ #########
+##       ##
+#  ##.##  #
+# #     # #
+# #$# #$# #
+# $.....$ #
+### #@# ###
+ #  #.#  #
+ # $ $ $ #
+ #  ###  #
+ #### ####
+; Chrysalis Collection 4 #20 Dumbo
+; Copyright: David Buchweitz, Jordi Doménech
+
+          #
+         #
+        #
+ #### #####
+ #  ###.. #
+ #   @ .* #
+##$#$#$# ##
+#      # #
+# # $# #$#
+#      # ##
+##$# ###..#
+ #   $  ..#
+ #  ####  #
+ ####  ####
+; Chrysalis Collection 4 #21 Hunchbacked Unicorn
+; Copyright: David Buchweitz, Jordi Doménech
+
+##################################
+#   #   #   #   # #    #         #
+# #   #   #   #   # ## # ####### #
+# ############### #  # # #       #
+#               # ## # # # #######
+############### # #  #   #       #
+#   #   #   #   #   ############ #
+# # # # # # # #######@#   #      #
+# # # # # # # #     $  .# # ######
+# # # # # # # # $$$$$##   #      #
+# # # # # # # # $     #   ###### #
+# # # # # # # # $$$$$ # ..#   #  #
+# # # # # # # #     $ # ..# # # ##
+# # # # # # # # $$$$$ # ..# # #  #
+# # # # # # # # $     # ..# # ## #
+# # # # # # # # $$$$$ # ..# # #  #
+# # # # # # # #     $ # ..# # # ##
+# # # # # # # # $$$$$ # ..# # #  #
+# # # # # # # # $     # ..# # ## #
+# # # # # # # #   ##### ..# # #  #
+# #   #   #   # $ #.......# # # ##
+# ############### #  # ...# # #  #
+#         #     # #    ...# # ## #
+######### # ### # # ####### # #  #
+#         #   # # #   #   # # # ##
+# ########### # # # # # # # # #  #
+#   #   #   # # # # # # # # # ## #
+# #   #   #   #   # #   #   #    #
+##################################
+; Chrysalis Collection 4 #22 Pastafarian
+; Copyright: David Buchweitz, Jordi Doménech
+
+       ####
+#####  #  #
+#   ####$ #
+# $       #
+## ##.*#$ #
+ #$#....$ #
+ #  ....#$#
+ #$ #*.## ##
+ #  $ @  $ #
+ # $####   #
+ #  #  #####
+ ####
+; Chrysalis Collection 4 #25 Nebula
+; Copyright: David Buchweitz, Jordi Doménech
+
+ ###########
+ #  ...#   #
+ #  ...$.$ #
+####...# ####
+# $  #$# #  #
+#  #   # #  #
+#  ##$## #  #
+##   $     ##
+ #$$$#### $ #
+ # @ #  #   #
+ #####  #####
+; Chrysalis Collection 4 #26 Incarceration
+; Copyright: David Buchweitz, Jordi Doménech
+
+###### ####
+#  . ###  #
+# *# #  . #
+#  $ @ $  #
+##$#.#.# ##
+ #.$$*$$.#
+## #.#.#$##
+#  $ $ $  #
+# .  # #. #
+#  ### .  #
+#### ######
+; Chrysalis Collection 4 #28 Sunday Silliness
+; Copyright: David Buchweitz, Jordi Doménech
+
+   #######
+####    .#
+#  #.  # #
+# $## $# ##
+#. # $$ $ #
+#..*$+$...#
+# $ $$ # .#
+## #$ ##$ #
+ # #  .#  #
+ #.    ####
+ #######
+; Chrysalis Collection 4 #31 Diamond in the rough
+; Copyright: David Buchweitz, Jordi Doménech
+
+##### #####
+#   ###   #
+# #  $  # #
+#  $.*#$  #
+## #.$.. ##
+ #*.$@$.*#
+## ..$.# ##
+#  $#*.$  #
+# #  $  # #
+#   ###   #
+##### #####
+; Chrysalis Collection 4 #33 Bastions of hell
+; Copyright: David Buchweitz, Jordi Doménech
+
+######## ########
+#      # #      #
+#.*..$ # #$$..*.#
+# $# $ # # $ #$ #
+# $ #$$### $# $ #
+# $ ... . ....$ #
+#      ### $    #
+######## #### ###
+            #.#
+######## #### ###
+#      # # $    #
+# $....###....$ #
+# $ #$  .  $# $ #
+# $# $ ### $ #$ #
+#.*..$$# #$$..*.#
+#  @   # #      #
+######## ########
+; Chrysalis Collection 4 #34 The Quad Quads
+; Copyright: David Buchweitz, Jordi Doménech
+
+###########
+#  $...$  #
+# $$$.$$$ #
+# .$ . $. #
+##...#...##
+# .$ . $. #
+# $$$.$$$ #
+#  $.+.$  #
+###########
+; Chrysalis Collection 4 #35 Initially Round
+; Copyright: David Buchweitz, Jordi Doménech
+
+   ######
+####    #####
+#  # ##$#   #
+#  # #. . $ #
+#   .$.###$##
+##.#$ .$ # #
+ # #  +  # #
+ # # $.$$#.##
+##$###.$.   #
+# $ . .# #  #
+#   #$## #  #
+#####    ####
+    ######
+; Chrysalis Collection 4 #37 Trapdoors
+; Copyright: David Buchweitz, Jordi Doménech
+
+#########
+#       #
+# ***** #
+# * $ * #
+# *   * #
+# * * * #
+# **.** #
+# # @ # #
+#   #   #
+#########
+; Chrysalis Collection 4 #40 Tuesday Teaser
+; Copyright: David Buchweitz, Jordi Doménech
+
+  #########
+###   #   #
+# $$$@$   #
+# $ ####$##
+# #    # #
+#....# # #
+## #.# # #
+ #  .  # #
+ # ##### #
+ #       #
+ #########
+; Chrysalis Collection 4 #41 Wednesday Wobbly
+; Copyright: David Buchweitz, Jordi Doménech
+
+########
+#   #  #
+#  $ . ####
+##$#.#. $ #
+ # . . .# #
+ #. $.# . #
+ #$.#  .$ #
+ # $#*#$$ #
+ #  $@$ # #
+ #  ###   #
+ #### #####
+; Chrysalis Collection 4 #43 Simple Saturday
+; Copyright: David Buchweitz, Jordi Doménech
+
+##### ##### #####
+#   # # @ # #   #
+# #$### #$### # ##
+# .$ .  .$    .$ #
+##.$####.$####.$ #
+ #.$    .$    .$ #
+ #.$####.$####.$ #
+ #.$    .$  . .$ #
+ # # ### # ### # #
+ #   # #   # #   #
+ ##### ##### #####
+; Chrysalis Collection 4 #44 High and Low
+; Copyright: David Buchweitz, Jordi Doménech
+

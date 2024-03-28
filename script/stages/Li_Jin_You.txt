@@ -1,0 +1,4232 @@
+ ######
+ #    ##
+##.##$ #
+# .. $@#
+#  # $ #
+#    ###
+######
+; Level 1
+; Copyright: Yoshio Murase, Ljy
+
+  ####
+ ##  ##
+##    #
+# . .$##
+#    $ #
+####*# #
+   #@  #
+   #####
+; Level 2
+; Copyright: Yoshio Murase, Ljy
+
+#######
+# . *@#
+#  #$ #
+#  .  #
+##  $##
+ #   #
+ #####
+; Level 3
+; Copyright: Yoshio Murase, Ljy
+
+#######
+# + * #
+# $#  #
+#  .  #
+##$  ##
+ #   #
+ #####
+; Level 4
+; Copyright: Yoshio Murase, Ljy
+
+########
+#   #  #
+#   $@ #
+##$##..#
+ # .#  #
+ #   $ #
+ #  ####
+ ####
+; Level 5
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+##  . #
+# . # #
+# . $ #
+# $#$##
+##@  #
+ #####
+; Level 6
+; Copyright: Yoshio Murase, Ljy
+
+#######
+#  +  #
+#$#*# #
+# $   #
+#.   ##
+#  ###
+####
+; Level 7
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+####  #
+#  *  #
+#     #
+## .###
+ #$$#
+ # +#
+ ####
+; Level 8
+; Copyright: Yoshio Murase, Ljy
+
+### ###
+#+###.#
+#$#  .#
+# $   #
+# $   #
+#  #  #
+#  ####
+####
+; Level 9
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+   #  ##
+#### $@#
+#. # $ #
+#     ##
+#.  $##
+##.  #
+ #####
+; Level 10
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+   #  ##
+#### $@#
+#. # $ #
+#  $  ##
+#.   ##
+##.  #
+ #####
+; Level 11
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+   #@ ##
+####$$ #
+#. #   #
+#  $  ##
+#.   ##
+##.  #
+ #####
+; Level 12
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+   #@ ##
+####$$ #
+#. #   #
+#     ##
+#.  $##
+##.  #
+ #####
+; Level 13
+; Copyright: Yoshio Murase, Ljy
+
+#####
+# ..####
+#    $@#
+#  #$# #
+#   .$ #
+########
+; Level 14
+; Copyright: Yoshio Murase, Ljy
+
+  #####
+###  .#
+# $$# #
+# .   #
+# .#$ #
+#   @##
+#   ##
+#####
+; Level 15
+; Copyright: Yoshio Murase, Ljy
+
+#######
+#.   .#
+#  $# ##
+# #  *@#
+#   $# #
+####   #
+   #####
+; Level 16
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#.  ###
+# #$$ #
+# . # #
+#  .$@#
+##  ###
+ #  #
+ ####
+; Level 17
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#.  ###
+# # $@#
+# . # #
+#  .$ #
+##$ ###
+ #  #
+ ####
+; Level 18
+; Copyright: Yoshio Murase, Ljy
+
+########
+#.   . #
+# # #  #
+#  $@$*#
+#####  #
+    #  #
+    ####
+; Level 19
+; Copyright: Yoshio Murase, Ljy
+
+####
+#  #
+#  #####
+# ..$  #
+##  $  #
+ #$# ###
+ #+  #
+ #####
+; Level 20
+; Copyright: Yoshio Murase, Ljy
+
+ #####
+ #   ###
+## .   #
+#+$ .$ #
+##$# ###
+ #   #
+ #####
+; Level 21
+; Copyright: Yoshio Murase, Ljy
+
+ #####
+##   #
+#  # #
+# .  ##
+# *   #
+##$#$ #
+ #. @##
+ #####
+; Level 22
+; Copyright: Yoshio Murase, Ljy
+
+ ####
+##  ####
+#+*   .#
+# #$$  #
+#   #  #
+#####  #
+    ####
+; Level 23
+; Copyright: Yoshio Murase, Ljy
+
+ ######
+ #  + ##
+ #  $$.#
+ ###.# #
+##     #
+# $   ##
+#   ###
+#####
+; Level 24
+; Copyright: Yoshio Murase, Ljy
+
+ ####
+ #  #
+ #  #
+##.$####
+#   .$+#
+#  $ ###
+###  #
+  ####
+; Level 25
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#.  #
+# # ###
+# .$$ #
+#   *@#
+#   ###
+#####
+; Level 26
+; Copyright: Yoshio Murase, Ljy
+
+  #####
+  #   #
+  # #.#
+###  .#
+# $$  #
+#@$.  #
+#######
+; Level 27
+; Copyright: Yoshio Murase, Ljy
+
+######
+# @  #
+# $#$###
+# .  $ #
+#   ## #
+##.  . #
+ ##   ##
+  #####
+; Level 28
+; Copyright: Yoshio Murase, Ljy
+
+######
+#    #
+#  #$###
+# .$@$ #
+#   ## #
+##.  . #
+ ##   ##
+  #####
+; Level 29
+; Copyright: Yoshio Murase, Ljy
+
+######
+#   @##
+#  #$ #
+#.    #
+# $$#.#
+###  .#
+  #####
+; Level 30
+; Copyright: Yoshio Murase, Ljy
+
+ ######
+## .  #
+#@$ * #
+#  #  ##
+#  #$ .#
+#### # #
+   #   #
+   #####
+; Level 31
+; Copyright: Yoshio Murase, Ljy
+
+    ####
+    #  #
+  ###$.#
+  #  . #
+###  #.#
+#  $@$ #
+#   #  #
+########
+; Level 32
+; Copyright: Yoshio Murase, Ljy
+
+    ####
+    #  #
+  ###$.#
+  #  . #
+###  #.#
+#@$ $  #
+#   #  #
+########
+; Level 33
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#  .###
+#  .. #
+# $##$##
+##  #  #
+ #   $@#
+ #  ####
+ ####
+; Level 34
+; Copyright: Yoshio Murase, Ljy
+
+  ####
+  #  #
+  #  ###
+### .. #
+# $$#  #
+#@$.   #
+####   #
+   #####
+; Level 35
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#  @###
+# #$* ##
+# $.   #
+###    #
+  #   .#
+  ######
+; Level 36
+; Copyright: Yoshio Murase, Ljy
+
+  ######
+### .  #
+# $$#. #
+#   # ##
+#  .$@#
+##  # #
+ ##   #
+  #####
+; Level 37
+; Copyright: Yoshio Murase, Ljy
+
+  ######
+###@.  #
+# $$#. #
+#   # ##
+#  .  #
+## $# #
+ ##   #
+  #####
+; Level 38
+; Copyright: Yoshio Murase, Ljy
+
+  ######
+### .  #
+# $ #. #
+#  @# ##
+#  *$ #
+##  # #
+ ##   #
+  #####
+; Level 39
+; Copyright: Yoshio Murase, Ljy
+
+ ####
+##@ ###
+# $ $ ##
+#  # $ #
+#  . ..#
+########
+; Level 40
+; Copyright: Yoshio Murase, Ljy
+
+ ####
+##@ ###
+# $ $ ##
+#  #   #
+# $. ..#
+########
+; Level 41
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##     #
+#.$#   #
+#   $.##
+# *#@ #
+#  ####
+####
+; Level 42
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##     #
+#.$#   #
+#@$  .##
+# *#  #
+#  ####
+####
+; Level 43
+; Copyright: Yoshio Murase, Ljy
+
+########
+#      #
+# # ##*#
+# # $  #
+#.  *@ #
+#####  #
+    #  #
+    ####
+; Level 44
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  @   #
+# #$##*#
+# #  $ #
+#.  .  #
+#####  #
+    #  #
+    ####
+; Level 45
+; Copyright: Yoshio Murase, Ljy
+
+ ######
+ #    ##
+ ##    #
+### .  #
+# $$# ##
+#@*  .#
+####  #
+   ####
+; Level 46
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#   ###
+#@$ $ #
+##$  .#
+ #  . #
+ ## # #
+  #  .#
+  #####
+; Level 47
+; Copyright: Yoshio Murase, Ljy
+
+#####
+# @ ###
+# $$  #
+## $ .#
+ #  . #
+ ## # #
+  #  .#
+  #####
+; Level 48
+; Copyright: Yoshio Murase, Ljy
+
+#####
+#   ####
+#  $   #
+# .#.$ #
+#  ##@##
+#  ##$#
+#    .#
+#######
+; Level 49
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  .#  #
+# .  . #
+#  # $@#
+#   $ ##
+### $##
+  #  #
+  ####
+; Level 50
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##@  . #
+# $$   #
+#. .####
+# $##
+#  #
+#  #
+####
+; Level 51
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##   . #
+#@$    #
+#.$.####
+# $##
+#  #
+#  #
+####
+; Level 52
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##@  . #
+# $$$  #
+#. .####
+#  ##
+#  #
+#  #
+####
+; Level 53
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##   . #
+#@$ $  #
+#.$.####
+#  ##
+#  #
+#  #
+####
+; Level 54
+; Copyright: Yoshio Murase, Ljy
+
+ #######
+##   . #
+#    $ #
+#* .####
+# $##
+# @#
+#  #
+####
+; Level 55
+; Copyright: Yoshio Murase, Ljy
+
+######
+# *  #
+#  # #
+#  $ ##
+## #  #
+# $ # #
+#.@.  #
+#######
+; Level 56
+; Copyright: Yoshio Murase, Ljy
+
+   #####
+#### . #
+# . $+ #
+#  $#  #
+# #  $ #
+#   ####
+#####
+; Level 57
+; Copyright: Yoshio Murase, Ljy
+
+  ####
+###  ###
+# ..$$.#
+#  @$  #
+####   #
+   #####
+; Level 58
+; Copyright: Yoshio Murase, Ljy
+
+    ####
+    #  #
+##### .#
+#  $@$$#
+#   .  #
+### .  #
+  ######
+; Level 59
+; Copyright: Yoshio Murase, Ljy
+
+########
+#   #  #
+# #.$  #
+#    $$#
+#####.@#
+  #    #
+  #   .#
+  ######
+; Level 60
+; Copyright: Yoshio Murase, Ljy
+
+######
+#    #
+#  $####
+#  $.  #
+##$#.# #
+#.@  # #
+#      #
+########
+; Level 61
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+   #  #
+#### $##
+#@$ .  #
+# ##   #
+#   ## #
+#   .$.#
+########
+; Level 62
+; Copyright: Yoshio Murase, Ljy
+
+   #####
+   #@  #
+ ###$$ #
+ #    ##
+##    #
+#.  #$#
+#..   #
+#######
+; Level 63
+; Copyright: Yoshio Murase, Ljy
+
+   #####
+####.  #
+#@$.   #
+# #  ###
+# $ $ .#
+####   #
+   #####
+; Level 64
+; Copyright: Yoshio Murase, Ljy
+
+   #####
+####.  #
+#@$.   #
+# #  ###
+#  $ $.#
+####   #
+   #####
+; Level 65
+; Copyright: Yoshio Murase, Ljy
+
+   #####
+####.  #
+#  .   #
+# #  ###
+#  $$$.#
+####@  #
+   #####
+; Level 66
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  .#@ #
+# # $$ #
+# $.#  #
+## .   #
+ #  ####
+ ####
+; Level 67
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  .#  #
+# #  $@#
+# $.#$ #
+## .   #
+ #  ####
+ ####
+; Level 68
+; Copyright: Yoshio Murase, Ljy
+
+#######
+#     #
+#*## .#
+#.  $@#
+#  #$ #
+#  #  #
+#######
+; Level 69
+; Copyright: Yoshio Murase, Ljy
+
+#######
+#     #
+#*## .#
+#.$   #
+#  #$ #
+#  #@ #
+#######
+; Level 70
+; Copyright: Yoshio Murase, Ljy
+
+####
+#. #
+#  #
+#  #####
+# .  $@#
+# .$$# #
+###    #
+  ######
+; Level 71
+; Copyright: Yoshio Murase, Ljy
+
+######
+#  . #
+#    ###
+# #  *@#
+#.  ## #
+# $$## #
+###    #
+  ######
+; Level 72
+; Copyright: Yoshio Murase, Ljy
+
+  ####
+###@ ##
+# $$$ #
+# #.# #
+# #  .#
+#  .  #
+##   ##
+ #####
+; Level 73
+; Copyright: Yoshio Murase, Ljy
+
+  #####
+###@  #
+# $$#$##
+#  . . #
+# ##.  #
+#    ###
+######
+; Level 74
+; Copyright: Yoshio Murase, Ljy
+
+  #####
+###   #
+# $ #$##
+#@$. . #
+# ##.  #
+#    ###
+######
+; Level 75
+; Copyright: Yoshio Murase, Ljy
+
+  #####
+  #   ##
+### .  #
+# $ .  #
+# #$* ##
+#  @###
+#####
+; Level 76
+; Copyright: Yoshio Murase, Ljy
+
+ ####
+ # @###
+ # $  #
+### # ##
+#.# #  #
+#. $ # #
+#.   $ #
+########
+; Level 77
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  ##  #
+# .  * #
+#  #  .#
+##  $#$#
+ ###@  #
+   #####
+; Level 78
+; Copyright: Yoshio Murase, Ljy
+
+########
+#  ##  #
+# .$ . #
+# $#  .#
+##@$ # #
+ ###   #
+   #####
+; Level 79
+; Copyright: Yoshio Murase, Ljy
+
+########
+#   #. #
+#.@    #
+##$##  #
+#  ##$##
+#      #
+# *#   #
+########
+; Level 80
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   #  #
+# .  *@#
+## ##  #
+#  ##$##
+#  $ . #
+#  #   #
+########
+; Level 81
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   #  #
+#   $  #
+## ##  #
+# .##$##
+# +$   #
+# .#   #
+########
+; Level 82
+; Copyright: Hiroki Kanou, Ljy
+
+########
+# @ #  #
+# $.$  #
+## ##  #
+# .##$##
+#   .  #
+#  #   #
+########
+; Level 83
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   #  #
+#  .$  #
+## ##  #
+# .##$##
+# @$.  #
+#  #   #
+########
+; Level 84
+; Copyright: Hiroki Kanou, Ljy
+
+########
+# @ #  #
+# $ $  #
+##.##  #
+# .##$##
+# .    #
+#  #   #
+########
+; Level 85
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   #  #
+#   $  #
+##.##  #
+# .##$##
+# +$   #
+#  #   #
+########
+; Level 86
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+## ##@.#
+# $ $$ #
+#      #
+# #  # #
+# #### #
+#.    .#
+########
+; Level 87
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+## ## .#
+# $    #
+#   $$ #
+# # @# #
+# #### #
+#.    .#
+########
+; Level 88
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  #@  #
+#  #$* #
+#  # .##
+##   $ #
+#    . #
+#  ##  #
+########
+; Level 89
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  #@  #
+#  #$. #
+#  # *##
+##     #
+#    * #
+#  ##  #
+########
+; Level 90
+; Copyright: Hiroki Kanou, Ljy
+
+####
+#. ###
+#.   ###
+# #@$  #
+#.$$ # #
+##     #
+ ####  #
+    ####
+; Level 91
+; Copyright: Hiroki Kanou, Ljy
+
+ ####
+##  ####
+#@$  . #
+#  #   #
+#   #. #
+## $ $ #
+ ### . #
+   #####
+; Level 92
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#...#  #
+#   $  #
+# $# $ #
+#  # @##
+#  #  #
+#######
+; Level 93
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+##   ##
+# #.  #
+#@*.  #
+# $$  #
+##   ##
+ #####
+; Level 94
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+##   ##
+# #.$ #
+# .*  #
+#   $ #
+##  @##
+ #####
+; Level 95
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+##   ##
+# #+$ #
+# .*  #
+#   $ #
+##   ##
+ #####
+; Level 96
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+## ## +#
+# $ $ $#
+#     .#
+#.#  # #
+# #### #
+#      #
+########
+; Level 97
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+## ## .#
+#      #
+#   $$.#
+#.# @# #
+# ####$#
+#      #
+########
+; Level 98
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  @   #
+# $$ #.#
+# #    #
+##  #$.#
+## #  .#
+#      #
+########
+; Level 99
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#      #
+# ###.##
+#@$  .##
+##  #. #
+##$$#  #
+#      #
+########
+; Level 100
+; Copyright: Hiroki Kanou, Ljy
+
+   ####
+ ### @#
+## $ $##
+#   #  #
+#   #  #
+##$#. .#
+ #.    #
+ #######
+; Level 101
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #   ###
+ #   $@#
+## #.$.#
+# . #  #
+#    $##
+####   #
+   #####
+; Level 102
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+##     #
+# ##@# #
+# ##$  #
+#  $.* #
+# # .# #
+#     ##
+#######
+; Level 103
+; Copyright: Hiroki Kanou, Ljy
+
+ #######
+##     #
+# ## # #
+# ##   #
+# $ .. #
+# #$*# #
+#   @ ##
+#######
+; Level 104
+; Copyright: Hiroki Kanou, Ljy
+
+########
+# #  # #
+#      #
+##. .$##
+#    $ #
+#  #*# #
+# # @  #
+########
+; Level 105
+; Copyright: Hiroki Kanou, Ljy
+
+  ######
+  #@   #
+###*   #
+#   ## #
+#.   $ #
+#  # $##
+#   . #
+#######
+; Level 106
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+ #    #
+ #   $##
+##.##  #
+# *+$  #
+#  #   #
+#    ###
+######
+; Level 107
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+ #    #
+ #   $##
+##.##  #
+# .. $ #
+#  #$  #
+#   @###
+######
+; Level 108
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+ # .+ ##
+ #  $$.#
+ ### # #
+##     #
+# $   ##
+#   ###
+#####
+; Level 109
+; Copyright: Hiroki Kanou, Ljy
+
+####
+#  #####
+#  .#  #
+# #  $@#
+# $.#$ #
+## .   #
+ #  ####
+ ####
+; Level 110
+; Copyright: Hiroki Kanou, Ljy
+
+####
+#  #####
+#  .#@ #
+# # $$ #
+# $.#  #
+## .   #
+ #  ####
+ ####
+; Level 111
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  #   #
+#  #   #
+#.$##  #
+# *@$  #
+# .  # #
+###    #
+  ######
+; Level 112
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+##  . #
+# . # #
+# . $ #
+# $# ##
+##@$  #
+ ##   #
+  #####
+; Level 113
+; Copyright: Hiroki Kanou, Ljy
+
+#### ###
+# .###.#
+#  #  .#
+#@$    #
+## $$ ##
+ #  ###
+ #  #
+ ####
+; Level 114
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#    ###
+#  #   #
+# *+$  #
+##.##  #
+#   #$##
+#      #
+########
+; Level 115
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#   @###
+#  #$  #
+# .. $ #
+##.##  #
+#   #$##
+#      #
+########
+; Level 116
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#. @ ##
+# $$$ #
+###.# #
+ #    #
+ #  . #
+ ###  #
+   ####
+; Level 117
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#.   ##
+# $ $ #
+###.# #
+ #@$  #
+ #  . #
+ ###  #
+   ####
+; Level 118
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  ##  #
+# .    #
+#.##$# #
+#  @*  #
+##$   ##
+ #   ##
+ #####
+; Level 119
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  ##  #
+# .    #
+#.## # #
+#@$ .$ #
+##$   ##
+ #   ##
+ #####
+; Level 120
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  ##  #
+# . @  #
+#.##$# #
+# $ .  #
+##$   ##
+ #   ##
+ #####
+; Level 121
+; Copyright: Hiroki Kanou, Ljy
+
+#####
+#   #####
+# # $.  #
+#  $@.# #
+## $#.  #
+ ##   ###
+  #####
+; Level 122
+; Copyright: Hiroki Kanou, Ljy
+
+#####
+#   #####
+# #@$.  #
+# $$ .# #
+##  #.  #
+ ##   ###
+  #####
+; Level 123
+; Copyright: Hiroki Kanou, Ljy
+
+#####
+#  @#####
+# #$ .  #
+# $ $.# #
+##  #.  #
+ ##   ###
+  #####
+; Level 124
+; Copyright: Hiroki Kanou, Ljy
+
+#####
+#   #####
+# #@ .  #
+# $$ .# #
+##  #.$ #
+ ##   ###
+  #####
+; Level 125
+; Copyright: Hiroki Kanou, Ljy
+
+     ####
+    ##  #
+   ## . #
+####    #
+# $ $* ##
+#  . @##
+#######
+; Level 126
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+    ##  #
+   ## . #
+#### $  #
+# $  *@##
+#  .  ##
+#######
+; Level 127
+; Copyright: Aymeric du Peloux, Ljy
+
+ #######
+ #  ...#
+ #   ####
+###   $@#
+#   #$# #
+# $ #   #
+#   #####
+#####
+; Level 128
+; Copyright: Hiroki Kanou, Ljy
+
+   ####
+#### @#
+#    $##
+# #$#  #
+# $    #
+#.###  #
+#.#### #
+#.     #
+########
+; Level 129
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+ #   #
+ # #$##
+##  $@#
+# .#$ #
+# .  ##
+# .# #
+##   #
+ #####
+; Level 130
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+##@  #
+# $#.##
+#   . #
+##$   #
+ # #. #
+ # $ ##
+ # ###
+ #  #
+ #  #
+ #  #
+ ####
+; Level 131
+; Copyright: Aymeric du Peloux, Ljy
+
+  #####
+ ##   ###
+ #      #
+ #*#.#. #
+ # # $ ##
+## #$#.#
+# @$   #
+#   #  #
+########
+; Level 132
+; Copyright: Aymeric du Peloux, Ljy
+
+    #####
+#####   #
+# $   $$#
+# # @.# ##
+#  . #.  #
+## # *   #
+ #   #####
+ #####
+; Level 133
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+###### @#
+#   $ $$#
+# #  .# ##
+#  .$#.  #
+## # .   #
+ #   #####
+ #####
+; Level 134
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+######  #
+# $ $@$ #
+# # $.# ##
+#  . #.  #
+## # .   #
+ #   #####
+ #####
+; Level 135
+; Copyright: Aymeric du Peloux, Ljy
+
+ ####
+ #@ #
+##* #
+# .$#####
+#  $ $  #
+# ..    #
+####  ###
+   ####
+; Level 136
+; Copyright: Aymeric du Peloux, Ljy
+
+ ####
+ #  #
+##. #
+# . #####
+#  $$ $ #
+# ..  $@#
+####  ###
+   ####
+; Level 137
+; Copyright: Aymeric du Peloux, Ljy
+
+########
+#@$ .  #
+# ***. #
+##   $ #
+ ##   ##
+  ##  #
+   ####
+; Level 138
+; Copyright: Aymeric du Peloux, Ljy
+
+ #########
+ #  ##   #
+##  *  # #
+# .$#*   #
+#   . $@##
+#########
+; Level 139
+; Copyright: Aymeric du Peloux, Ljy
+
+  ####
+###. ###
+#      #
+# *..# #
+## # $ #
+ #  $@##
+ ## #$#
+  #   #
+  #####
+; Level 140
+; Copyright: Aymeric du Peloux, Ljy
+
+  #####
+  #   #
+###.# ##
+#    . #
+# #  # #
+# * *  #
+## $#$##
+ ##@  #
+  #####
+; Level 141
+; Copyright: Aymeric du Peloux, Ljy
+
+######
+#   .#
+# .  #
+# # ###
+# # $@##
+# .* $ ##
+####  $ ##
+   ##    #
+    ##   #
+     #####
+; Level 142
+; Copyright: Aymeric du Peloux, Ljy
+
+######
+#   .#
+# .  #
+# # ###
+# #   ##
+# .*$  ##
+####@$$ ##
+   ##    #
+    ##   #
+     #####
+; Level 143
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+ #   ###
+## # $@#
+# . $$ #
+#...# ##
+# #  $ #
+#  #   #
+##   ###
+ #####
+; Level 144
+; Copyright: Aymeric du Peloux, Ljy
+
+  ########
+  #   #  #
+  #   $. #
+ ###$##  #
+ # $.## ##
+##@$..   #
+#  # #   #
+# . $#####
+##   #
+ #####
+; Level 145
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+  #### @#
+  #.* $$#
+###   # ##
+#    #.. #
+#    $   #
+####  ####
+   ####
+; Level 146
+; Copyright: Aymeric du Peloux, Ljy
+
+     #####
+ #####   #
+ #@$ . # #
+ #$# $   #
+## ##$# ##
+#   .$. #
+# ##   ##
+#  . .##
+#######
+; Level 147
+; Copyright: Aymeric du Peloux, Ljy
+
+#####
+#   ###
+#.# $ #
+#@$ . #
+# $$  #
+##.#.##
+ #   #
+ #####
+; Level 148
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+ ##### @#
+ # $ $ $#
+## #.## #
+#  #  . #
+#  *  # ##
+## ##.#  #
+ #       #
+ #  ######
+ ####
+; Level 149
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+ #####  #
+ #@$ $  #
+##$#.## #
+#  #  . #
+#  .  #$##
+## ##.#  #
+ #       #
+ #  ######
+ ####
+; Level 150
+; Copyright: Aymeric du Peloux, Ljy
+
+  #####
+  #   ###
+###*# $ #
+#  $  # #
+# # ..$@#
+# . #$###
+## .  #
+ #  ###
+ ####
+; Level 151
+; Copyright: Aymeric du Peloux, Ljy
+
+    #####
+#####   ##
+#   #$#  #
+#  $@* # #
+## ##..  #
+#  #.  ###
+#  $   #
+#  #####
+####
+; Level 152
+; Copyright: Aymeric du Peloux, Ljy
+
+ #######
+ #  # @#
+ #  .$$#
+##$.#. #
+# $.#. ##
+#   *$  #
+#   #   #
+#########
+; Level 153
+; Copyright: Aymeric du Peloux, Ljy
+
+ #######
+ #  # @#
+ #  .$$#
+##$.#. #
+# $.#* ##
+#  $.   #
+#   #   #
+#########
+; Level 154
+; Copyright: Aymeric du Peloux, Ljy
+
+ #######
+ #  #  #
+ #  .$ #
+## *#* #
+#  .#. ##
+# $$.$  #
+#   #@  #
+#########
+; Level 155
+; Copyright: Aymeric du Peloux, Ljy
+
+ #######
+ #  #  #
+ #  *$ #
+## *#. #
+#  .#. ##
+# $$.$  #
+#   #@  #
+#########
+; Level 156
+; Copyright: Aymeric du Peloux, Ljy
+
+  #######
+ ##  #  #
+ # . *  #
+##$@ #$ #
+#  *#. ##
+#      #
+#####  #
+    ####
+; Level 157
+; Copyright: Aymeric du Peloux, Ljy
+
+  #######
+ ##  #  #
+ # .$.  #
+## $@#$ #
+#  *#. ##
+#      #
+#####  #
+    ####
+; Level 158
+; Copyright: Aymeric du Peloux, Ljy
+
+#### ####
+#  ### @#
+#  $ $ $#
+#  #.## #
+##$ .   ##
+ # . .#  #
+ ## #    #
+  #   ####
+  #####
+; Level 159
+; Copyright: Aymeric du Peloux, Ljy
+
+ ####
+ #  #####
+ #    $@#
+ # # #$ #
+##  .  ##
+# $#.#$#
+#   .  #
+### . ##
+  #####
+; Level 160
+; Copyright: Aymeric du Peloux, Ljy
+
+ ####
+ #@ #####
+ #$$    #
+ # # #$ #
+##  .  ##
+#  #.#$#
+#   .  #
+### . ##
+  #####
+; Level 161
+; Copyright: Aymeric du Peloux, Ljy
+
+  ####
+###  #
+#    ##
+#  #  ###
+## . . .#
+##$##.#$##
+#  $@$   #
+#   ##   #
+##########
+; Level 162
+; Copyright: Aymeric du Peloux, Ljy
+
+  ####
+###  #
+#    ##
+#  #  ###
+## . . .#
+##$##.#$##
+# $@$    #
+#   ##   #
+##########
+; Level 163
+; Copyright: Aymeric du Peloux, Ljy
+
+ ####
+###  #
+#    ##
+#  #  ###
+## . . .#
+##$##.#$##
+#    $@$ #
+#   ##   #
+##########
+; Level 164
+; Copyright: Aymeric du Peloux, Ljy
+
+  ####
+###  #
+#    ##
+#  #  ###
+## . . .#
+##$##.#$##
+#   $@$  #
+#   ##   #
+##########
+; Level 165
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+ #   #
+ #.#$##
+ #  $@#
+ #.#$ #
+ #   ##
+ #.# #
+##   #
+# .#$#
+#    #
+#  ###
+####
+; Level 166
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+##   ###
+# ..** #
+# #  # #
+#    $@#
+### #$##
+  #   #
+  #####
+; Level 167
+; Copyright: Aymeric du Peloux, Ljy
+
+######
+#    ##
+#  *$ #
+# $.  #
+## . ##
+ #$.$#
+ # * #
+ ##+##
+  ###
+; Level 168
+; Copyright: Aymeric du Peloux, Ljy
+
+  #####
+  #.  ###
+ ##.#   #
+ # * $  #
+##@* #$##
+#  *   #
+#   ####
+#####
+; Level 169
+; Copyright: Aymeric du Peloux, Ljy
+
+    ####
+#####  #
+#   $ @#
+#  .#.$#
+##$### ##
+ # .#.  #
+ #   $  #
+ #  #####
+ ####
+; Level 170
+; Copyright: Aymeric du Peloux, Ljy
+
+  ####
+###  ###
+#   .  #
+#  $   #
+##.#.#.#
+ # $$$ #
+ ###@ ##
+   ####
+; Level 171
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+ #   #
+ # # ##
+## *$ ##
+#  .$  #
+# $* # #
+##@.  .#
+ #######
+; Level 172
+; Copyright: Aymeric du Peloux, Ljy
+
+ #####
+ #   #
+ # # ##
+## *$ ##
+# $.$  #
+#@$. # #
+## .  .#
+ #######
+; Level 173
+; Copyright: Aymeric du Peloux, Ljy
+
+     ####
+ #####  #
+ #      #
+ #*# #. #
+ #   $ ##
+##*#$#.##
+#  . *$ #
+#   # @ #
+#########
+; Level 174
+; Copyright: Aymeric du Peloux, Ljy
+
+      ####
+####### .#
+# $ $    #
+#@$  $...#
+###   ####
+  #####
+; Level 175
+; Copyright: Aymeric du Peloux, Ljy
+
+      ####
+####### .#
+#    $ $ #
+#   $ .*+#
+###   ####
+  #####
+; Level 176
+; Copyright: Aymeric du Peloux, Ljy
+
+#################
+# @#  #  #  #   #
+#.$$  # $#.     #
+#  #.$ .    #   #
+#  #  #  #  #   #
+#################
+; Level 177
+; Copyright: Aymeric du Peloux, Ljy
+
+#################
+#  #  #  #  #   #
+#+$   #  #.     #
+# $#.$ . $  #   #
+#  #  #  #  #   #
+#################
+; Level 178
+; Copyright: Aymeric du Peloux, Ljy
+
+#################
+# @#  #  #  #   #
+#.$$  #  #.     #
+#  #.$ . $  #   #
+#  #  #  #  #   #
+#################
+; Level 179
+; Copyright: Aymeric du Peloux, Ljy
+
+#################
+#  #  #  #  #   #
+#+$   # $#.     #
+# $#.$ .    #   #
+#  #  #  #  #   #
+#################
+; Level 180
+; Copyright: Aymeric du Peloux, Ljy
+
+#### ####
+#  ###  #
+#   . $@#
+# $ .$$ #
+### . ###
+  # . #
+  #####
+; Level 181
+; Copyright: Aymeric du Peloux, Ljy
+
+   ####
+####  #
+#@* . ##
+# $$ $ #
+# .# . #
+# *#  ##
+##    #
+ ######
+; Level 182
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+####  #
+# * . ##
+#  $$  #
+# .# . #
+# .#$$##
+##   @#
+ ######
+; Level 183
+; Copyright: Yoshio Murase, Ljy
+
+   ####
+####  #
+#@* . ##
+# $$   #
+# .#$. #
+# *#  ##
+##    #
+ ######
+; Level 184
+; Copyright: Yoshio Murase, Ljy
+
+  ########
+###      #
+#   $ $$ #
+#   $  $ #
+##### #####
+   ##$. ..#
+   # @.#  #
+   # .   .#
+   ####  ##
+      ####
+; Level 185
+; Copyright: Howard Abed, Ljy
+
+  ########
+###      #
+#     $  #
+#     $  #
+##### #####
+   ## . ..#
+   #  .#  #
+   # * $$*#
+   #### @##
+      ####
+; Level 186
+; Copyright: Howard Abed, Ljy
+
+  ########
+###      #
+#   $    #
+#   $    #
+##### #####
+   ## . ..#
+   #  .#  #
+   # * $$*#
+   #### @##
+      ####
+; Level 187
+; Copyright: Howard Abed, Ljy
+
+  ########
+###      #
+#  $$    #
+#        #
+##### #####
+   ## . ..#
+   #  .#  #
+   # * $$*#
+   #### @##
+      ####
+; Level 188
+; Copyright: Howard Abed, Ljy
+
+  ########
+###      #
+# $    $ #
+#        #
+##### #####
+   ## . ..#
+   #  .#  #
+   # * $$*#
+   #### @##
+      ####
+; Level 189
+; Copyright: Howard Abed, Ljy
+
+#######
+#     ##
+# $    #
+# $    #
+### ####
+# *$*.#
+#  @  #
+#  # .#
+#  .  #
+#######
+; Level 190
+; Copyright: Howard Abed, Ljy
+
+#######
+#     ##
+#   $$ #
+#      #
+### ####
+# *$*.#
+#  @  #
+#  # .#
+#  .  #
+#######
+; Level 191
+; Copyright: Howard Abed, Ljy
+
+#######
+#     ##
+#   $  #
+#   $  #
+### ####
+# *$*.#
+#  @  #
+#  # .#
+#  .  #
+#######
+; Level 192
+; Copyright: Howard Abed, Ljy
+
+ #####
+ #  @###
+## #$  #
+# *. . #
+#   $ ##
+###$#.#
+  #   #
+  #####
+; Level 193
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+######
+#    #
+# $  #
+##*  #
+# * ##
+# .$#
+# *@#
+# . #
+#####
+; Level 194
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+######
+#    #
+#  $ #
+##.  #
+# * ##
+# * #
+# *$#
+# .@#
+#####
+; Level 195
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+  ####
+  #  #
+### $##
+# $.  #
+# $.  #
+#  .$##
+###* #
+  #+##
+  ###
+; Level 196
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#####
+#   #####
+#$# #   #
+#   $@$ #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+; Level 197
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#####
+#   #####
+# #$#   #
+#       #
+#.*# # ##
+#*  $$ #
+#.. @###
+######
+; Level 198
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#####
+#@  #####
+#$#$#   #
+# $     #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+; Level 199
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#####
+#   #####
+#$# #   #
+#  $@$  #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+; Level 200
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#####
+#@  #####
+#$# #   #
+# $ $   #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+; Level 201
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+     ####
+   ###  ####
+#### $  #  #
+# @$   $   #
+# # #$#$#$ #
+# .... .. ##
+###########
+; Level 202
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+  #####
+###  @#
+#    $#
+#   # ##
+##$# . ##
+ #  ..* #
+ # $ #  #
+ ###   ##
+   #####
+; Level 203
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   .  ##
+# ##.#$ #
+#       #
+##  .*###
+ # #.   #
+ #$$ ## #
+ #@$#   #
+ ##   ###
+  #####
+; Level 204
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#   .  ##
+# ##.#$ #
+#   $   #
+## @*.###
+ # #.   #
+ # $ ## #
+ # $#   #
+ ##   ###
+  #####
+; Level 205
+; Copyright: Hiroki Kanou, Ljy
+
+  ####
+  #  #
+###  ####
+#  .*$  #
+#  .. $@#
+###$ ####
+  #  #
+  ####
+; Level 206
+; Copyright: Thinking Rabbit, Ljy
+
+  ####
+  #  #
+###  ####
+#@$.. $ #
+# $*.   #
+###  ####
+  #  #
+  ####
+; Level 207
+; Copyright: Thinking Rabbit, Ljy
+
+  ####
+  #  #
+###  ####
+#  .*$  #
+# $.. $@#
+###  ####
+  #  #
+  ####
+; Level 208
+; Copyright: Thinking Rabbit, Ljy
+
+   #####
+####.  ##
+# $. *  #
+# $#$#  #
+#@$. .  #
+####$#  #
+  #. .$ #
+  #######
+; Level 209
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+####*  ##
+#@$. .  #
+# $#$#  #
+# $. .  #
+####$#  #
+  #. .$ #
+  #######
+; Level 210
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+####.  ##
+#@$. .$ #
+# $# #  #
+# $. .$ #
+####$#  #
+  #. .$ #
+  #######
+; Level 211
+; Copyright: Hiroki Kanou, Ljy
+
+   ######
+####+   #
+#   $   #
+#.##.##.#
+#  $  $ #
+# $ .#$##
+###    #
+  ######
+; Level 212
+; Copyright: Hiroki Kanou, Ljy
+
+ #########
+##       #
+#@$ #$#$ #
+# $   . *#
+#  ###...#
+#### #####
+; Level 213
+; Copyright: Hiroki Kanou, Ljy
+
+ #########
+##       #
+# $ # #$ #
+#  $@$. *#
+#  ###...#
+#### #####
+; Level 214
+; Copyright: Hiroki Kanou, Ljy
+
+ #########
+##   @   #
+# $$#$#$ #
+#     . *#
+#  ###...#
+#### #####
+; Level 215
+; Copyright: Hiroki Kanou, Ljy
+
+ #########
+##       #
+# $$# #$ #
+#@$   . *#
+#  ###...#
+#### #####
+; Level 216
+; Copyright: Hiroki Kanou, Ljy
+
+  ##########
+###   .    #
+#  $## ##@ #
+#   . * .$##
+##$ ## ## #
+ #  $ .   #
+ ##########
+; Level 217
+; Copyright: Hiroki Kanou, Ljy
+
+  ##########
+###   .    #
+#   ##$##  #
+#   . . * ##
+##  ##$##$#
+ #    . $@#
+ ##########
+; Level 218
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#@$  . # #######
+#.$ $  # #    .#
+#### .## #.  $ #
+   #  #  ###  ##
+   #  #    # $#
+   #  #    #. #
+#### #######$###
+#              #
+################
+; Level 219
+; Copyright: Ken'ichiro Takahashi (takaken), Ljy
+
+#########
+# $ .   #
+#  *$*  #
+# +$. . #
+#  *$*  #
+# $ .   #
+#########
+; Level 220
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+####   ##
+# $ $   #
+# #.*.# #
+# #**.# #
+#    $@ #
+##   ####
+ #####
+; Level 221
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+####   ##
+#   $ $@#
+# #..*# #
+# #.*.# #
+#   $ $ #
+##   ####
+ #####
+; Level 222
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #  @####
+##$#$$  #
+#    $$ #
+# # #...#
+#   $...#
+#########
+; Level 223
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #   ####
+##$#  $ #
+#    $  #
+# # #**.#
+# @$ ...#
+#########
+; Level 224
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #   ####
+##$#    #
+# $@$ $ #
+# #$#*..#
+#    ...#
+#########
+; Level 225
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #   ####
+## #  $ #
+#  $ $  #
+# # #**.#
+# @$ ...#
+#########
+; Level 226
+; Copyright: Hiroki Kanou, Ljy
+
+ #####
+ #   ####
+## #  $ #
+#  $ $$ #
+# # #*..#
+#@$  ...#
+#########
+; Level 227
+; Copyright: Hiroki Kanou, Ljy
+
+####
+#  ###
+#  $+#
+#  $*#
+#  $.#
+# # .#
+######
+; Level 228
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+##  . ##
+# . #$ ##
+# $ # $ #
+# @## # #
+# $$  ..#
+#  .#   #
+#########
+; Level 229
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#      #
+# ## # #
+#   $  #
+## $ ###
+ #*$$.#
+ #+. .#
+ ######
+; Level 230
+; Copyright: Hiroki Kanou, Ljy
+
+##########
+#..      #
+#.. $ #  #
+#  #$## ##
+#@$     #
+##### # #
+  # $   #
+  #     #
+  #######
+; Level 231
+; Copyright: Hiroki Kanou, Ljy
+
+##########
+#..      #
+#..$$ #  #
+#  # ## ##
+#@$     #
+##### # #
+  # $   #
+  #     #
+  #######
+; Level 232
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+## .$@#
+#  $$ #
+#. * *#
+#     #
+#  . ##
+######
+; Level 233
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+## .  #
+#   $ #
+#* . .#
+# $$  #
+#@$. ##
+######
+; Level 234
+; Copyright: Hiroki Kanou, Ljy
+
+ ####
+##@ #
+# $$#
+##  ##
+## $ #
+#* $ #
+#....#
+######
+; Level 235
+; Copyright: Hiroki Kanou, Ljy
+
+ ####
+##  #
+#@$ #
+##$ ##
+## $ #
+#* $ #
+#....#
+######
+; Level 236
+; Copyright: Hiroki Kanou, Ljy
+
+ ####
+##@ #
+# $$#
+##  ##
+## $ #
+#.$  #
+#..*.#
+######
+; Level 237
+; Copyright: Hiroki Kanou, Ljy
+
+#######
+#. . .#
+# $ $ #
+#.$$ *#
+# $ $ #
+#. .$+#
+#######
+; Level 238
+; Copyright: Hiroki Kanou, Ljy
+
+#######
+#. . .#
+# $$$ #
+#*@$ .#
+# $$$ #
+#. . .#
+#######
+; Level 239
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+##    ###
+# $$*   #
+#  . *  #
+##.$* *##
+ # * .@#
+ ##   ##
+  #####
+; Level 240
+; Copyright: Hiroki Kanou, Ljy
+
+ ######
+##    ###
+# $ .   #
+#  .$*  #
+##.$* *##
+ # * *@#
+ ##   ##
+  #####
+; Level 241
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+   #@  #
+   #$$$#
+####   #
+#   .#$##
+#  * * .#
+#  #.#.##
+########
+; Level 242
+; Copyright: Hiroki Kanou, Ljy
+
+   #####
+   #@  #
+   #$$$#
+####   #
+#   .#$##
+#  . * .#
+#  #*#.##
+########
+; Level 243
+; Copyright: Hiroki Kanou, Ljy
+
+   ########
+####    . #
+# $   $$* #
+#  .### *##
+#  .   $@#
+#  .  ####
+#######
+; Level 244
+; Copyright: Hiroki Kanou, Ljy
+
+   ########
+####    *@#
+#     $$. #
+#  *### *##
+#  .     #
+#  *  ####
+#######
+; Level 245
+; Copyright: Hiroki Kanou, Ljy
+
+   ########
+####    . #
+# $ $  $* #
+#  .### *##
+#  .   $@#
+#  .  ####
+#######
+; Level 246
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#    #
+#  $$####
+# $...*@#
+# ..**$ #
+#### $  #
+   #    #
+   ######
+; Level 247
+; Copyright: Hiroki Kanou, Ljy
+
+######
+# @  #
+# $$ ####
+#  **.. #
+# ..**$ #
+####  $ #
+   #    #
+   ######
+; Level 248
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#    #
+#   $####
+# $**.. #
+#@*..*$ #
+####  $ #
+   #    #
+   ######
+; Level 249
+; Copyright: Hiroki Kanou, Ljy
+
+######
+# @  #
+# $$ ####
+#  **.. #
+# .*.*  #
+####$ $ #
+   #    #
+   ######
+; Level 250
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#    #
+#  $$####
+# $..*+ #
+# ..**  #
+#### $$ #
+   #    #
+   ######
+; Level 251
+; Copyright: Hiroki Kanou, Ljy
+
+######
+#    #
+#    ####
+# $*.*+ #
+# ..**$ #
+####$ $ #
+   #    #
+   ######
+; Level 252
+; Copyright: Hiroki Kanou, Ljy
+
+  ######
+### $ .#
+# $ .####
+# $.#  @##
+#  $##$$ #
+#  . .   #
+### $###.#
+  #. # ###
+  ####
+; Level 253
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  #.. ##
+# $.  * #
+#  $$$  #
+# *@$.$ #
+## ..#  #
+ ########
+; Level 254
+; Copyright: Hiroki Kanou, Ljy
+
+########
+#  #.. ##
+# $*  * #
+#@$ $$  #
+# . $.$ #
+## ..#  #
+ ########
+; Level 255
+; Copyright: Hiroki Kanou, Ljy
+
+  ####
+ ##  ####
+##  *@$ #
+#  #*#  #
+#      ##
+##$#.   #
+ #  .## #
+ ###    #
+   ######
+; Level 256
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $#.#  #
+#   $  ##
+## #.   #
+ #  .## #
+ ###    #
+   ######
+; Level 257
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##  . $ #
+# $#.#  #
+#@$    ##
+##$#.   #
+ #  .## #
+ ###    #
+   ######
+; Level 258
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+# .    ##
+## # .  #
+ # $.## #
+ ###    #
+   ######
+; Level 259
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $#.#. #
+#      ##
+##.# .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 260
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #. #
+#    ..##
+##$#  . #
+ #   ## #
+ ###    #
+   ######
+; Level 261
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #. #
+# .   .##
+## #  . #
+ # $ ## #
+ ###    #
+   ######
+; Level 262
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *#.#  #
+# . .  ##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 263
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@*  $ #
+# $# #. #
+# ..   ##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 264
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@*  $ #
+# $# #. #
+#  .  .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 265
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #. #
+#     .##
+##.#  . #
+ # $ ## #
+ ###    #
+   ######
+; Level 266
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# *# #  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 267
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+#  . . ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 268
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+#  . ..##
+## # .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 269
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+#  . . ##
+## #   .#
+ # $.## #
+ ###    #
+   ######
+; Level 270
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$  $ #
+# $# #  #
+# .    ##
+##.#    #
+ # $.## #
+ ###    #
+   ######
+; Level 271
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$  $ #
+# $# #  #
+# .    ##
+##.#   .#
+ # $ ## #
+ ###    #
+   ######
+; Level 272
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+# . . .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 273
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+# . .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 274
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+# . . .##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 275
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+#  ..  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 276
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+#  ....##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 277
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+#  . ..##
+## #    #
+ # $ ## #
+ ###.   #
+   ######
+; Level 278
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$. $ #
+# $# #  #
+# .    ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 279
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$  $ #
+# $# #. #
+# .    ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 280
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+# .    ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 281
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #. #
+#      ##
+##.#.  .#
+ # $ ## #
+ ###    #
+   ######
+; Level 282
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #. #
+#      ##
+## #.   #
+ # $.## #
+ ###    #
+   ######
+; Level 283
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+#  . . ##
+## # .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 284
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $# #  #
+#  . . ##
+## # .  #
+ # $.## #
+ ###    #
+   ######
+; Level 285
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+#  .   ##
+## #. . #
+ # $ ## #
+ ###    #
+   ######
+; Level 286
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #. #
+#  .   ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 287
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+# ..   ##
+## #.   #
+ # $ ## #
+ ###    #
+   ######
+; Level 288
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+#  .   ##
+## #.  .#
+ # $ ## #
+ ###    #
+   ######
+; Level 289
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$ .$ #
+# $# #  #
+#  . . ##
+## #  . #
+ # $ ## #
+ ###    #
+   ######
+; Level 290
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+# ..   ##
+## #   .#
+ # $ ## #
+ ###    #
+   ######
+; Level 291
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #. #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 292
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$ .$ #
+# $# #  #
+#  . . ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 293
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #. #
+# ..   ##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 294
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$ .$ #
+# *# #  #
+# ..   ##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 295
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #  #
+# ..  .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 296
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+#  . ..##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 297
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# *# #. #
+#   .  ##
+## #  . #
+ # $ ## #
+ ###    #
+   ######
+; Level 298
+; Copyright: Ljy
+
+  ####
+ ## @####
+## .$ * #
+# $# #  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 299
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## .$@* #
+#  #$#  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 300
+; Copyright: Ljy
+
+  ####
+ ## @####
+## *$ * #
+#  # #  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 301
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## .... #
+# $#$#  #
+#@$    ##
+##$#    #
+ #   ## #
+ ###    #
+   ######
+; Level 302
+; Copyright: Ljy
+
+  ####
+ ## @####
+## .$.$ #
+# $# #  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 303
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## .$+$ #
+#  #$#  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 304
+; Copyright: Ljy
+
+  ####
+ ## @####
+## *$.$ #
+#  # #  #
+#   .  ##
+## #    #
+ # $.## #
+ ###    #
+   ######
+; Level 305
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. $ #
+# $# #  #
+#   .  ##
+##.#    #
+ # $ ## #
+ ###.   #
+   ######
+; Level 306
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@*  * #
+# $# #  #
+#      ##
+##.# .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 307
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##.  .$@#
+#  #$#$ #
+#.     ##
+##.#  $ #
+ #   ## #
+ ###    #
+   ######
+; Level 308
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##.  .$@#
+#  # #$ #
+#.     ##
+##.#  $ #
+ # $ ## #
+ ###    #
+   ######
+; Level 309
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$ .$ #
+# $#.#  #
+#  .   ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 310
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.# .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 311
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.#  . #
+ # $ ## #
+ ###    #
+   ######
+; Level 312
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.#.   #
+ # $ ## #
+ ###    #
+   ######
+; Level 313
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.#   .#
+ # $ ## #
+ ###    #
+   ######
+; Level 314
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#   .  ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 315
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.#    #
+ # $.## #
+ ###    #
+   ######
+; Level 316
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#      ##
+##.#    #
+ # $ ## #
+ ###.   #
+   ######
+; Level 317
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $#.#  #
+#      ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 318
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$ .$ #
+# $# #  #
+#  .   ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 319
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##+$..$ #
+# $# #  #
+#      ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 320
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $#.#  #
+#  .   ##
+##.#    #
+ # $.## #
+ ###    #
+   ######
+; Level 321
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## . .. #
+# $#*#  #
+#@$    ##
+##$#    #
+ #   ## #
+ ###    #
+   ######
+; Level 322
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $#.#  #
+#  . . ##
+## #.   #
+ # $ ## #
+ ###    #
+   ######
+; Level 323
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$  $ #
+# $#.#  #
+#  .  .##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 324
+; Copyright: Ljy
+
+  ####
+ ## @####
+## .$ * #
+# $# #  #
+#   . .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 325
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## .$@* #
+#  #$#  #
+#   . .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 326
+; Copyright: Ljy
+
+  ####
+ ## @####
+## *$ * #
+#  # #  #
+#   . .##
+## #    #
+ # $ ## #
+ ###    #
+   ######
+; Level 327
+; Copyright: Ljy
+
+  ####
+ ##  ####
+##@$. * #
+# $#.#  #
+#      ##
+##.#    #
+ # $ ## #
+ ###    #
+   ######
+; Level 328
+; Copyright: Ljy
+
+  ####
+ ##  ####
+## .$@* #
+# .#$#  #
+#      ##
+## # .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 329
+; Copyright: Ljy
+
+  ####
+ ## @####
+## *$ * #
+# .# #  #
+#      ##
+## # .  #
+ # $ ## #
+ ###    #
+   ######
+; Level 330
+; Copyright: Ljy
+
+  ###
+  #.#
+ ##$###
+## .  #
+# *$$.##
+# *  . #
+#  *.$ #
+#@* $ ##
+##   ##
+ #####
+; Level 331
+; Copyright: Yoshio Murase, Ljy
+
+  ###
+  #.#
+ ##$###
+## .$@#
+# * $*##
+# *$ . #
+#  ..$ #
+# .$  ##
+##   ##
+ #####
+; Level 332
+; Copyright: Yoshio Murase, Ljy
+
+  ###
+  #.#
+ ##$###
+## .$@#
+# .$$*##
+# .$ . #
+#  ..$ #
+# * $ ##
+##   ##
+ #####
+; Level 333
+; Copyright: Yoshio Murase, Ljy
+
+################
+#@             #
+# $*.********* #
+#            * #
+############ * #
+#          # * #
+# ******** # * #
+# *      * # * #
+# * #### * # * #
+# * # #  * # * #
+# * # #    # * #
+# * ######## * #
+# *          * #
+# ************ #
+#              #
+################
+; Level 334
+; Copyright: Howard Abed, Ljy
+
+      #####
+      #   #
+      # $ #
+     ## @ ##
+    ##  *  ##
+   ##  * *  ##
+  ##  * * *  ##
+ ##  * * * *  ##
+##  * * * * *  ##
+#  * * * * * *  #
+# * * * * * * * #
+#  * * * * * *  #
+##  * * * * *  ##
+ ##  * * * *  ##
+  ##  * . *  ##
+   ##  * *  ##
+    ##  *  ##
+     ##   ##
+      #####
+; Level 335
+; Copyright: Thinking Rabbit, Ljy
+
+############################
+#                          #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$+$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+# $.$.$.$.$.$.$.$.$.$.$.$. #
+# .$.$.$.$.$.$.$.$.$.$.$.$ #
+#                          #
+############################
+; Level 336
+; Copyright: Thinking Rabbit, Ljy
+
+  ####      ####
+###  #    ###  #
+#    ##   #    ##
+#  #  ### #  #  ###
+## .... # ## .... #
+ # ## #$## # ## #$##
+ #$  $ $ ###$ $ $  #
+ #   #         #   #
+ ## ######### ######
+  # ##      # ##
+###  #    ###  #
+#    ##   #    ##
+#  #  ### #  #  ###
+## .... # ## .... #
+ # ## #$## # ## #$##
+ #$ $ $  ###$$ $   #
+ #   #    @    #   #
+ ###################
+; Level 337
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+###$  #@##
+  #    $#
+  #### .#
+  # $ $$#
+###   # ##
+# ..*#.  #
+#    $   #
+####  ####
+   ####
+; Level 338
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+###$  #@##
+  #    $#
+  ####  #
+     ##.#
+  ####  #
+  # $ $$#
+###   # ##
+# ..*#.  #
+#    $   #
+####  ####
+   ####
+; Level 339
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+###$  #@##
+  #    $#
+  ####  #
+     ## #
+  ####  #
+  # $ $$#
+###   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 340
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+#*#$  #@##
+# #    $#
+#  ###  #
+#   $.# #
+#  ###  #
+# # $ $$#
+#*#.  # ##
+# ..*#.  #
+#    $   #
+####  ####
+   ####
+; Level 341
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+#*#$  #@##
+# #    $#
+#  ###  #
+#   $.# #
+#  #*#  #
+# # $ $$#
+#*#   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 342
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  ..#.$ #
+#*#$  #@##
+# #    $#
+#  #*#  #
+#   $.# #
+#  ###  #
+# # $ $$#
+#*#   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 343
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ #  ..#.$ #
+ #*#$  #@##
+## #    $#
+#  ####  #
+#    $.* #
+#  ####  #
+## # $ $$#
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 344
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ #  ..#.$ #
+ #*#$  #@##
+## #    $##
+#   ###   #
+#    $.*# #
+#   ###   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 345
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ #  ..#.$ #
+ #*#$  #@##
+## #    $##
+#  ####   #
+#    $.** #
+#  ####   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 346
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#  ####   #
+#    $.**@#
+#  ####   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  #  #
+    #######
+; Level 347
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#  ####   #
+#    $.**@#
+#  # ##   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 348
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#  ####   #
+#    $.*#@#
+#  # ##   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 349
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ #  .*#.. #
+ #*#   # ##
+## # $ $$##
+#  ####   #
+#    $.*#@#
+#  # ##   #
+## # $ $$##
+ #*#   # ##
+ #  .*#.. #
+ #    $ . #
+ ####  ####
+    ####
+; Level 350
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+# ..*#.  #
+#*#   # ##
+# # $ $$##
+#  *##   #
+#   $.**@#
+#  *##   #
+# # $ $$##
+#*#   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 351
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+# ..*#.  #
+#*#   # ##
+# # $ $$##
+#  *##   #
+#   $.*#@#
+#  *##   #
+# # $ $$##
+#*#   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 352
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  .*#.. #
+#*#   # ##
+# # $ $$##
+#  *##   #
+#   $.*#@#
+#  *##   #
+# # $ $$##
+#*#   # ##
+#  .*#.. #
+#    $ . #
+####  ####
+   ####
+; Level 353
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#  .*#.. #
+###   # ##
+### $ $$##
+#  *##   #
+#   $.*#@#
+#  *##   #
+### $ $$##
+###   # ##
+#  .*#.. #
+#    $ . #
+####  ####
+   ####
+; Level 354
+; Copyright: Ljy, Marek Letrab
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#   #*#   #
+#   .$ **@#
+#   #*#   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 355
+; Copyright: Ljy
+
+    ####
+ ####  ####
+ #    $ . #
+ #  .*#.. #
+ #*#   # ##
+## # $ $$##
+#   #*#   #
+#   .$ **@#
+#   #*#   #
+## # $ $$##
+ #*#   # ##
+ #  .*#.. #
+ #    $ . #
+ ####  ####
+    ####
+; Level 356
+; Copyright: Ljy
+
+   ####
+####  ####
+#    $ . #
+#   .#.$ #
+#*#$. #@##
+# #    $#
+#  ###  #
+#   $.# #
+#  ### .#
+# # $ $$#
+#*#   # ##
+# ..*#.  #
+#    $   #
+####  ####
+   ####
+; Level 357
+; Copyright: Ljy, Mark
+
+   ####
+####  ####
+#    $ . #
+#   .#.$ #
+#*#$. #@##
+# #    $##
+#  ###   #
+#   $.*# #
+#  ###   #
+# # $ $$##
+#*#   # ##
+# ..*#.  #
+#    $ . #
+####  ####
+   ####
+; Level 358
+; Copyright: Ljy, Mark
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#  ##*#   #
+#  . $.**@#
+#  ##*#   #
+## # $ $$##
+ #*#   # ##
+ # ..$#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 359
+; Copyright: Ljy, Mark
+
+    ####
+ ####  ####
+ #    $ . #
+ # ..*#.  #
+ #*#   # ##
+## # $ $$##
+#   #*#   #
+#   .$.**@#
+#   #*#   #
+## # $ $$##
+ #*#   # ##
+ # ..$#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 360
+; Copyright: Ljy, Mark
+
+    ####
+ ####  ####
+ #    $ . #
+ #   .#.$ #
+ #*#$. #@##
+## #    $##
+#  ####   #
+#    $.*# #
+#  ####   #
+## # $ $$##
+ #*#   # ##
+ # ..*#.  #
+ #    $ . #
+ ####  ####
+    ####
+; Level 361
+; Copyright: Ljy, Mark
+

@@ -1,0 +1,1357 @@
+   ####
+   #  #
+ ###  #
+ #.#  #
+ # # #####
+##   #   #
+#        #
+#  # #####
+#  # #
+####$#
+   #@#
+   ###
+; SokoStation / POUR COMMENCER R--1
+; Copyright: Ghislain Martin, Eric Sunshine
+
+#########
+#       #
+# .#.#. #
+#  $$$  #
+# .$@$. #
+#  $$$  #
+# .#.#. #
+#       #
+#########
+; SokoStation / GRAND CARRE R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+#########
+#       #
+# $...$ #
+# .$$$. #
+# .$@$. #
+# .$$$. #
+# $...$ #
+#       #
+#########
+; SokoStation / GRAND CARRE R--2
+; Copyright: Ghislain Martin, unknown
+
+  ######
+###    #
+# $...$##
+# .$$$. #
+# .$@$. #
+# .$$$. #
+##$...$ #
+ #    ###
+ ######
+; SokoStation / GRAND CARRE R--3
+; Copyright: Ghislain Martin, Migl
+
+#########
+#.. $ ..#
+#.$@$  .#
+#.$ $ $.#
+#$$***$$#
+#.$ $ $.#
+#.  $ $.#
+#.. $ ..#
+#########
+; SokoStation / DANS LES COINS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+   #####
+  ##   ##
+ ##  .  ##
+##  * *  ##
+#  * * *  #
+##* * * *##
+#  * * *  #
+##  * *  ##
+ ##  $  ##
+  ## @ ##
+   #####
+; SokoStation / BOULE DE NEIGE R--1
+; Copyright: Ghislain Martin, York Shen
+
+#########
+#@      #
+# $ $ $ #
+# $$$$$ #
+#   $   #
+# $$$$$ #
+#   $   #
+#### ####
+   # #
+   #.#
+ ###.###
+ # ... #
+ # ... #
+ # ... #
+ # ..  #
+ # ..  #
+ #######
+; SokoStation / CLASSIQUE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#    @    #
+# $ $.$ $ #
+#$$$$*$$$ #
+#.* $.  *.#
+#...#.#...#
+#####.#####
+#...#.#...#
+#.* $.  *.#
+#$$$$*$$$ #
+# $ * * $ #
+#         #
+###########
+; SokoStation / L'AIGLE D'OR R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#    @    #
+# $$$$$$$ #
+#         #
+#* * * * *#
+# * * * * #
+#* * * * *#
+# * * * * #
+#* * * * *#
+# * * * * #
+# ....... #
+#         #
+###########
+; SokoStation / IL PLEUT R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#    @    #
+# $$$$$$$ #
+#         #
+#### * ####
+  # * *#
+  #* * ##
+ ## * * ##
+## * * * ##
+# * * * * #
+# ....... #
+###       #
+  #########
+; SokoStation / IL PLEUT R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#    @    #
+#$$$$$$$$$#
+#         #
+#  * * *  #
+# * * * * #
+#* * * * *#
+# * * * * #
+#  * * *  #
+# * * * * #
+#.........#
+#         #
+###########
+; SokoStation / IL NEIGE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+       ######
+      ##....#
+     ##....##
+    ##....##
+   ##  $.##
+  ## $  ##
+ ##    ##
+ #  $ ##
+#### #####
+# $   $ @#
+# $   $  #
+# $$$$$$ #
+#        #
+##########
+; SokoStation / EN DIAGONALE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+       ######
+      ##....#
+     ##....##
+    ##....##
+   ##  $ ##
+  ## $  ##
+ ##    ##
+ #  $ ##
+#### #####
+# $   $ @#
+# $   $  #
+# $$$$$  #
+#        #
+##########
+; SokoStation / EN DIAGONALE R--2
+; Copyright: Ghislain Martin, unknown
+
+#########
+#   *   #
+# + * # #
+#   *   #
+#*******#
+#   *   #
+# # * $ #
+#   *   #
+#########
+; SokoStation / SWAP R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+  #####
+  #   #
+###$ $###
+# $...$ #
+#  .@.  #
+# $...$ #
+###$$ ###
+  #   #
+  #####
+; SokoStation / SOLITAIRE R--1
+
+ #########
+##   .   ##
+#  $ . $  #
+# *#$.$#* #
+#  $ . $  #
+#..**+**..#
+#  $ . $  #
+# *#$*$#* #
+#  $ . $  #
+##   .   ##
+ #########
+; SokoStation / BOUQUET DE FLEURS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+ #########
+##       ##
+#  * . *  #
+# *#$.$#* #
+#  $ . $  #
+#.***+***.#
+#  $ . $  #
+# *#$*$#* #
+#  * * *  #
+##   .   ##
+ #########
+; SokoStation / BOUQUET DE FLEURS R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+    #####
+  ###...###
+ ##..*.*..##
+ # .*.*.*. #
+##.*.*.*.*.##
+# * * * * * #
+#  $ $ $ $  #
+# $ $ $ $ $ #
+## $ $ $ $ ##
+ #  $ $ $  #
+ ##   $   ##
+  ### @ ###
+    #####
+; SokoStation / BULLE DE SAVON R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+      #####
+      #   #
+  #####$  #
+  #...* $ #
+  #.#.#$  #
+  #...* $ #
+###*#*#$@ #
+# $ $ $.$ #
+#         #
+###########
+; SokoStation / TAIS TOI ET POUSSE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+       #####
+    ####   ####
+    #  #$$ #  #
+##### $  $  $ #
+#      #   #  #
+# #$#$$#####$ #
+# *......+..  #
+###############
+; SokoStation / LA FORTERESSE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+   #########
+   #       #
+   # $     #
+####$$$ $$$####
+#             #
+#$$$$$$*$$$$$$#
+#.............#
+#......@......#
+#.............#
+#$$$$$$*$$$$$$#
+#             #
+####$$$ $$$####
+   #     $ #
+   #       #
+   #########
+; SokoStation / MANIAK R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+        ######
+        #    #
+        # $  #
+        #  $ #
+##########$$ #
+#      # # $ #
+# #### ###  $#
+# #  #     $ #
+# # *#######.#######
+#   *    @  .......#
+####*$ #############
+   # * #
+   #   #
+   #####
+; SokoStation / TRUC A MOITIE CON R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#    @    #
+# $ $ $ $ #
+#  $ $ $  #
+# $ $ $ $ #
+#####$#####
+##... ...##
+# ... ... #
+#         #
+#   ###   #
+##### #####
+; SokoStation / LE SABLIER R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+ #########
+##       ##
+#  #.#*#  #
+# $.$.$.$ #
+#  # # #  #
+# $.$.$.$ #
+#  #*#.#  #
+##   @   ##
+ #########
+; SokoStation / INTERLUDE R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+####
+#..##
+#...#######
+#...  # @ #
+##..$   $ ##
+ ## # ###  #
+  # #  #   #
+  #  $$#$$ #
+  # $# #   #
+  #  $ $ $##
+  ##      #
+   ########
+; SokoStation / NEURODESTRUCTION R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+  ###
+ ##.##
+##...##
+#..$..#
+#..$..#
+#.$#$.#
+#  *  #
+## $$##
+#  $  #
+# #$# #
+#  $  #
+## $ ##
+#  $  #
+# $#$ #
+#  $  #
+## @ ##
+ #####
+; SokoStation / LA PILULE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+               #######
+               #     ##
+########       #$ $   #
+#  ... ######  # $ $  #
+# $### .... ## #$ $ $ #
+#  ...  ###  ### $ $  #
+#@$###*....     $ $ $ #
+#  ...  ###  ### $ $  #
+# $### .... ## #$ $ $ #
+#  ... ######  # $ $  #
+########       #$ $  ##
+               #    ##
+               ######
+; SokoStation / BOMBE ATOMIQUE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#########
+#       #
+# $.$.$ #
+# .$.$. #
+# $.@.$ #
+# .$.$. #
+# $.$.$ #
+##      #
+ ########
+; SokoStation / EN QUINCONCE 2 R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+########
+#      ##
+# $.$.$ #
+# .$.$. #
+# $.@.$ #
+# .$.$. #
+# $.$.$ #
+##      #
+ ########
+; SokoStation / EN QUINCONCE 2 R--2
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+###########
+#         #
+# #$#$#$# #
+# $ . . . #
+# # #.#.# #
+#@$$.$*$. #
+# # #.#.# #
+# $ . . . #
+# #$#$#$# #
+#         #
+###########
+; SokoStation / EN DECALAGE R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+####
+#  #######
+#        #
+#  ##### #
+#*###### #
+#  #   # #
+## # $ # #
+ # ### # #
+ # # . # #
+ # #   * #
+ # # @ # #
+ #   ### #
+ ##### ###
+; SokoStation / CRUELLA R--1
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+      ####
+ ###### .#
+ #  .$ $ #
+ #.$ .$ .#
+##$*$.$.$#
+# $ @*$. #
+#. $.$ $.#
+###.  .###
+  ######
+; SokoStation / ORGANISATION CHAOTIQUE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+   ###########
+   #  * * *  #
+####   * *   ########
+#    ** * ** #  # # #
+#      * *      $   #
+## # ** * ** # # # ##
+ # #   * *   #      #
+## #  * * *  ## # # #
+#  ###########      #
+#       +        # ##
+####################
+; SokoStation / ATTENTION VIRUS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+#   *   *   #
+# $ * $ * $ #
+#   *   *   #
+#***********#
+#   *   *   #
+# . * + * . #
+#   *   *   #
+#############
+; SokoStation / TIC TAC TOE R--1
+
+#####   #####
+#   #   #   #
+# $ #   # $ #
+#   #   #   #
+#***#####***#
+#   * @ *   #
+# . * # * . #
+#   *   *   #
+#############
+; SokoStation / TIC TAC TOE R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+# . $ . $ . #
+# $ . $ . $ #
+#@###*#*### #
+# $ . $ . $ #
+# . $ . $ . #
+#############
+; SokoStation / ROBOTICO R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+    #######
+    #   $.#
+#####.#####
+#    $    #
+# * * * * #
+#  * * *  #
+# * * * * #
+#* * * * *#
+# * * * * #
+#  * * *  #
+# * * * * #
+#    $    #
+#####.#####
+#@    #
+#######
+; SokoStation / Y'A PAS PHOTO R--1
+; Copyright: Ghislain Martin, York Shen
+
+######
+#    ##
+# $ * ##
+#  * . ##
+# * . $ ##
+## . $ * #
+ ## $ +  #
+  ## *  ##
+   ##  ##
+    ####
+; SokoStation / DIAGOBAN R--1
+; Copyright: Ghislain Martin, York Shen
+
+######
+#    ##
+# $ * ##
+#  * . ##
+# * . $ ##
+## . * * #
+ ## $ @  #
+  ## *  ##
+   ##  ##
+    ####
+; SokoStation / DIAGOBAN R--2
+; Copyright: Ghislain Martin, York Shen
+
+############
+#          #
+# .*.*.*.$ #
+# *$$$$$.$ #
+# .$...$.* #
+# *$.$.$.$ #
+# .$.$+$.* #
+# *$.$$$.$ #
+# .$.....* #
+# .$*$*$*$ #
+#          #
+############
+; SokoStation / LA SPIRALE R--1
+; Copyright: Ghislain Martin, York Shen
+
+############
+#          #
+# .*.*.*.$ #
+# *$$$$$.$ #
+# .$...$.* #
+# *$.$.$.$ #
+# .$.*+$.* #
+# *$.$$$.$ #
+# .$.....* #
+# *$*$*$*$ #
+#          #
+############
+; SokoStation / LA SPIRALE R--2
+; Copyright: Ghislain Martin, York Shen
+
+############
+#          #
+# .*.*.*.$ #
+# *$$$$$.$ #
+# .$...$.* #
+# *$.$.$.$ #
+# .$.$+$.* #
+# *$.$*$.$ #
+# .$.....* #
+# *$*$*$*$ #
+#          #
+############
+; SokoStation / LA SPIRALE R--3
+; Copyright: Ghislain Martin, York Shen
+
+  #########
+ ##   @   ##
+## .$.$.$. ##
+# .$$$.$$$. #
+# ...$*$... #
+# .$$$.$$$. #
+## .$.$.$. ##
+ ##       ##
+  #########
+; SokoStation / VORTEX R--1
+; Copyright: Ghislain Martin, York Shen
+
+  #########
+ ##   @   ##
+## .$.*.$. ##
+# .$$$.$$$. #
+# *..$ $..* #
+# .$$$.$$$. #
+## .$.*.$. ##
+ ##       ##
+  #########
+; SokoStation / VORTEX R--2
+; Copyright: Ghislain Martin, York Shen
+
+###########
+#.  $.$  .#
+# *.$.$.* #
+# . $.$ . #
+#$$$$.$$$$#
+#....@....#
+#$$$$.$$$$#
+# . $.$ . #
+# *.$.$.* #
+#.  $.$  .#
+###########
+; SokoStation / DRAPEAU ANGLAIS R--1
+; Copyright: Ghislain Martin, York Shen
+
+  #####
+  # @ #
+### # ###
+# .$ $. #
+# # # # #
+# .$ $. #
+### # ###
+# .$ $. #
+# # # # #
+# .$ $. #
+### # ###
+# .$ $. #
+# # # # #
+# .$ $. #
+### # ###
+  #   #
+  #####
+; SokoStation / UN PEU PLUS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+     ######
+    ##    #
+   ## $ $@###
+   # $ $    #
+  ##$ $ $ $ #
+ ##. $   $  ##
+##. . $ $ $  ##
+#. . . $   $  #
+##. . . $ $ $ #
+ ##. . . $ $ ##
+  ##. . . $ ##
+   ##. . . ##
+    ##. .###
+     ##.##
+      ###
+; SokoStation / J'AI FAIT UN TETRIS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+     #######
+    ##     #
+   ## $ $$@#
+   # $ $  ###
+  ##$   $   #
+ ##. $ $ $  #
+##. . $   $##
+#. . . $ $ #
+##. . . $ ##
+ ##. . . ##
+  ##. .###
+   ##.##
+    ###
+; SokoStation / J'AI FAIT UN TETRIS R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+        ###
+       ## ##
+      ##   ##
+     ## $   ##
+    ## $ $$@ ##
+   ## * *  $  ##
+  ## * . * $   #
+ ## . * * * $ ##
+## . * * . $ ##
+# . * * * * ##
+## * * * * ##
+ ## * * . ##
+  ## * . ##
+   ## . ##
+    ## ##
+     ###
+; SokoStation / J'AI FAIT UN TETRIS R--3
+; Copyright: Ghislain Martin, York Shen
+
+#############
+#....*@*....#
+## $  $  $ ##
+ ## $$$$$ ##
+  ##     ##
+   ##   ##
+    ## ##
+     ###
+; SokoStation / TRIANGLE DES BERMUDES R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#         #
+# .  .  . #
+# ....... #
+# ....... #
+#####*#####
+#   $ $   #
+#  $ $ $  #
+# $ $ $ $ #
+#  $ $ $  #
+#   $ $   #
+##### #####
+#  $ $ $  #
+#         #
+#    @    #
+###########
+; SokoStation / LA PORTE DES ETOILES R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#         #
+# .  .  . #
+# ....... #
+# ....... #
+#####.#####
+#   $ $   #
+# $$ $ $$ #
+#   $ $   #
+# $$ $ $$ #
+#   $ $   #
+##### #####
+#   $ $   #
+#         #
+#    @    #
+###########
+; SokoStation / LA PORTE DES ETOILES R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+##### #####
+#   ###   #
+#    .    #
+# ....... #
+##.......##
+ ####*####
+##  $.$  ##
+#  $ $ $  #
+#   $ $   #
+#  $ $ $  #
+##  $ $  ##
+##### #####
+#    $    #
+#    $    #
+##  $@$  ##
+ ##  #  ##
+  #######
+; SokoStation / LA PORTE DES ETOILES R--3
+; Copyright: Ghislain Martin, Spiros Mantzoukis
+
+###########
+#         #
+# $.$*$*$ #
+# .$.*.$. #
+# $.$.$.$ #
+##$ $.$ $##
+ # $.+.$ #
+ ## $.$ ##
+ ## $.$ ##
+ #...*...#
+ #$$$*$$$#
+ #...*...#
+ #########
+; SokoStation / LA TETE A TOTO R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+  ####
+  #  #
+###$.###
+# .  $ #
+# $. . #
+##* @*##
+# . $$ #
+# $  . #
+###.$###
+  #  #
+  ####
+; SokoStation / TOURNICOTONS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+  ####
+  #  #
+###$.###
+# .  $ #
+# $  . #
+##*$+*##
+# .  $ #
+# $  . #
+###.$###
+  #  #
+  ####
+; SokoStation / TOURNICOTONS R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+  #####
+  #   #
+###$.$###
+# $...$ #
+#   *   #
+# $.*.$ #
+### + ###
+# $.*.$ #
+#   *   #
+# $...$ #
+###$ $###
+  #   #
+  #####
+; SokoStation / SUPER ZEBULON R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#########
+#.      #
+# $$*$#$#
+# $.$ . #
+# * ##* #
+# $ ##. #
+# *.*.* #
+#      +#
+#########
+; SokoStation / UN PETIT NIVEAU R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+      #####
+      # $.#
+  ##### $####
+###  #  $.  #
+#.. * * $.$ #
+#+** #  $.$ #
+#.. * * $.$ #
+###  #  $.  #
+  ##### $####
+      # $.#
+      #####
+; SokoStation / ASTMOSPHERE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+########################
+#@$.$.#     #.$   # $. ##
+# $.$.#$$$.$# .$. # $.$ #
+# $.$. .....  $.$   ....#
+# $.$.## $$ #  $.$# $.$$#
+#   $.#.  $ #    .#     #
+### ##### ##### ##### ###
+# $.$.# $.  #.   .#  $#.#
+# $.$.#.$.$ # $$. # $$. #
+# $.$.  $.$.  $.$$  $.$$#
+# $.$.#.$.$ ##.$  # .$. #
+#     # $.  #. $ .#.    #
+#########################
+; SokoStation / LE GRAND HUIT R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+  ###        ###
+ ## ##      ## ##
+## $.##    ##.$ ##
+# .$$.##  ##.$$. #
+## .$$.####.$$. ##
+ ## .$$.##.$$. ##
+  ## .$$  $$. ##
+   ## .$  $. ##
+    ## ***+ ##
+     #     ##
+     ##$$$$#
+      #    #
+      #.***#
+      #....#
+      ######
+; SokoStation / THE Y-FILES R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#########
+#   @   #
+# $$$$$ #
+# $   $ #
+# $   $ #
+#### ####
+# $ $ $ #
+#.......#
+# ..... #
+###   ###
+  # # #
+###***###
+#       #
+#       #
+#####  ##
+    ####
+; SokoStation / POUR SOUFFLER R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+           ##### ######
+##### ######   # #    #
+#...###   ## # ###    #
+#...  *   *   *   ***##
+#..  #############    #
+#    #           #    #
+## ### ##### ####### ###
+ #*  # #   # #   #  $  #
+ #   ### # ### # # $ $ #
+ #  *    *   **   $  $ #
+ ##* # # ### # ### $$$##
+  #  #   # #   # #    @#
+  ######## ##### #######
+; SokoStation / HUIT PIECES R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+##### #####
+#...###...#
+#... # ...#
+#$$$$$$$$$#
+#         #
+## $$$$$ ##
+ ##     ##
+  ##. .##
+   ##@##
+    ###
+; SokoStation / PETIT COEUR R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###############
+#.............#
+#.............#
+#$$$$$$$$$$$$$#
+#             #
+## $$$$$$$$$ ##
+ ##         ##
+  ## $$$$$ ##
+   ##     ##
+    ##   ##
+     ##+##
+      ###
+; SokoStation / GRAND COEUR R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#######
+#@    #######
+# $$$$$.....#
+# $ . $. $ .#
+# $.#.#.$$$.#
+# $ . $. $ .##
+# $$$$##.... #
+# ....##$$$$ #
+##. $ .$ . $ #
+ #.$$$.#.#.$ #
+ #. $ .$ . $ #
+ #.....$$$$$ #
+ #######     #
+       #######
+; SokoStation / PLUS OU MOINS PAREIL R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#######
+#@    #######
+# $$$$$.....#
+# $ . $. $ .#
+# $.#.$.$$$.#
+# $ . $. $ .##
+# $$$$*..... #
+# .....*$$$$ #
+##. $ .$ . $ #
+ #.$$$.$.#.$ #
+ #. $ .$ . $ #
+ #.....$$$$$ #
+ #######     #
+       #######
+; SokoStation / PLUS OU MOINS PAREIL R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+     #########
+ #####      @#
+ #.....$$$$$ #
+ #.$ $.$. .$ #
+ #. $ .$ . $ #
+ #.$ $.$. .$ #
+ #....##$$$$##
+##$$$$##....#
+# $. .$.$ $.#
+# $ . $. $ .#
+# $. .$.$ $.#
+# $$$$$.....#
+#       #####
+#########
+; SokoStation / UNE FOIS DE PLUS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+     #########
+ #####      @#
+ #.....$$$$$ #
+ #.$ $.$. .$ #
+ #. $#.# # $ #
+ #.$ $.$. .$ #
+ #....##$$$$##
+##$$$$##....#
+# $. .$.$ $.#
+# $ # #.#$ .#
+# $. .$.$ $.#
+# $$$$$.....#
+#       #####
+#########
+; SokoStation / UNE FOIS DE PLUS R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#         #
+#         #
+# $$$$$$$ #
+##       ##
+ ## $$$ ##
+  ##   ##
+  ###@###
+  #.....#
+  #.....#
+  ##   ##
+   #   #
+   #####
+; SokoStation / PANTHERA R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+################################
+#  . $. $. *. $.#   $...$  $   #
+#@$  $  $ .$  $    $ ... $  $  #
+# $. *. $. $. *.# $  ...  $  $ #
+################################
+; SokoStation / TOUJOURS TOUT DROIT R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+#           #
+# #$####..# #
+# #.$  $.+. #
+# #. $  *.. #
+# #$  $. $# #
+# #.$  $  # #
+# #. $  $ # #
+# #$  $  $# #
+# . $..$..$ #
+# $.####### #
+#           #
+#############
+; SokoStation / BONNE ANNEE 2004 R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+#           #
+# #$####.## #
+# #.$  $.+# #
+# #. $  *.*$#
+# #$  $. $#.#
+# #.$  $  #.#
+# #. $  $ #.#
+# #$  $  $#.#
+# . $..$..$ #
+# $.####### #
+#           #
+#############
+; SokoStation / BONNE ANNEE 2004 R--2
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+#           #
+# #$####.*# #
+# #.$  $.+* #
+# #. $  *.*$#
+# #$  $. $#.#
+# #.$  $  #.#
+# #. $  $ #.#
+# #$  $  $#.#
+# . $..$..$ #
+# $.####### #
+#           #
+#############
+; SokoStation / BONNE ANNEE 2004 R--3
+; Copyright: Ghislain Martin, Marek Letrab
+
+    ##########
+  ###..$ $   #
+###.....$ $  #
+#+.....# $ $ #
+#......#$ $  #
+#....### $ $##
+#..###  $ $ #
+#### $ $ $ $#
+# $ $ $ $ $ #
+#  $ $ $ $  #
+##          #
+ ############
+; SokoStation / PETITE PUNITION R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#########
+#       #
+# $$$$$ #
+#  # #  #
+# $ $ $ #
+#  # #  #
+# $$$$$ #
+#       #
+####@####
+#.......#
+#  ...  #
+#   .   #
+####.####
+   #.#
+   ###
+; SokoStation / FLOWER POWER R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#######   #######
+#.    #   #    .#
+# $ $ #   #   $ #
+#  $$$#   #$$$$ #
+# $ $ #####   $ #
+#. $ ...+...$ $.#
+#####.#####.#####
+    #.#   #.#
+    #.#   #.#
+    #.#   #.#
+#####.#####.#####
+#.$  ...*... $ .#
+# $ $$#####  $  #
+#  $  #   #$$$$ #
+# $ $$#   #  $  #
+#.    #   #    .#
+#######   #######
+; SokoStation / QUADRALOGIQUE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###################
+#  * . #  .$  *.  ##
+#$   # *     #   $ #
+# . $   $*#. $. #  #
+#  .# # # .  # $  .#
+# $ # .* *  ###$####
+#* * $  #  * .  .#
+# # # $ .#@ $ #$####
+#.  .  $  #   . * .#
+# $ * $ # . $#  $ ##
+##   #.$ .*  # $* ##
+#  #    #  $.   . .#
+# $ $ .# $#   $ ####
+####  ##    .  ##
+   #############
+; SokoStation / OH QUE C'EST BEAU R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+ ##################
+##.$. .#. .$. $ . ##
+#.$ $# * * . *$  * #
+#   $  $$$# *$  #$.#
+#. .#.$ #.$. # *   #
+# * * .$ $. # #$.#.#
+#*$$$* .#$ $$. . $$#
+# * # $ .$+ * #$$#.#
+#. . . * $#.$.$. . #
+# . * $ # .$  . $ .#
+##$.$#$$$. .$# *$$##
+#  #.   # $$$     .#
+#.$ $. * *#.$.$$#* #
+##.$. .#. . .$. . ##
+ ##################
+; SokoStation / OH QUE C'EST BEAU R--2
+
+ ##################
+##.$. .#. .$. $ . ##
+#.$ $# * * . *$  * #
+#   $  $$$# *$  #$.#
+#. .#.$ #.$. # *   #
+# * * .$ $. # #$.#.#
+#*$$$* .#$ $$. . $$#
+# * # $ .$+ * #$$#.#
+#. . . * *#.$.$. . #
+# . * $ # .$  . $ .#
+##$.$#$$$. .$# *$$##
+#  #.$  # $$$     .#
+#.$ $. * *#.$.$$#* #
+##.$. .#. . .$. . ##
+ ##################
+; SokoStation / OH QUE C'EST BEAU R--3
+
+ ##################
+##.$. .#  .$. $ . ##
+#.$ $# * * . *$. * #
+# . $  $$$# *$  #$.#
+#.$.#.$ #.$. # *   #
+# * * .$ $. # #$.#.#
+#*$$$* .#$ $$. . $$#
+# * # $ .$+ * #$$#.#
+#. . . * *#.$.$. . #
+# . * $ # .$  . $ .#
+##$*$#*$$. .$# *$###
+#  #.$  # $$$     .#
+#.$ $. * *#.$.$$#* #
+##.$  .#. . .$. . ##
+ ##################
+; SokoStation / OH QUE C'EST BEAU R--4
+
+      #######
+      #     #
+####### # # #
+#. . .$$ $ $##
+# # #$# #.#  #
+#**.*..$.**$@#
+# #$# # #.#  #
+#. . .$$ $ $##
+####### # # #
+      #     #
+      #######
+; SokoStation / UN PEU D'EXERCICE R--1
+
+ #########
+##       ##
+#  $ $ $  #
+# $@$ $ $ #
+#  $ ######
+# $ $#
+#  $ #
+# $ $######
+#  $     .#
+# #$##### #
+# #.....$ #
+# #.###.# #
+# #.# #.# #
+# #.###.# #
+# $.....# #
+# #####$# #
+#.        #
+###########
+; SokoStation / SIX SIX SEIS R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###############
+#      @      #
+# $ $ $ $ $ $ #
+## $.$.$.$.$ ##
+ #  $.$.$.$  #
+ #   $.$.$   #
+ #####$.$#####
+    ##.$.##
+   ##.$.$.##
+  ##.$.$.$.##
+ ##.$.$.$.$.##
+ #. . . . . .#
+ #############
+; SokoStation / CHASSE CROISE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+ ############
+##          ##
+# +$*.$*.$*. #
+# *    *   $ #
+##$ ###### *##
+ #. #    # .#
+##* ###### $##
+# $   *    * #
+# .*$.*$.*$. #
+##          ##
+ ############
+; SokoStation / SERPENTISSIMO R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+#############
+#           #
+#$ $ $.$ $ $#
+# $.$.$.$.$ #
+# #$.$.$.$# #
+# #.$.$.$.# #
+# # .$+$. # #
+#. . .$. . .#
+#############
+; SokoStation / CONTRE PYRAMIDE R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+####
+#  ######
+#  $ $  #
+# .*.#. #
+#  $@$  #
+# .#.*. #
+#  $ $  #
+######  #
+     ####
+; SokoStation / DECONTRACTION R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+    #####
+    #   #
+    # $ #
+#####   #####
+#   ## ##   #
+#  $     $  #
+# $### ###$ #
+## ###.### ##
+##  # . ## #
+#   ..+..  #
+#   # . ## #
+## ###.### ##
+# $##   ##$ #
+#  $  #  $  #
+#   #####   #
+#####   #####
+; SokoStation / VIEILLE RUINE R--1
+
+#########
+#    .$ #
+#$$$$.$ #
+#...+.$ #
+# $.#.$ #
+# $.....#
+# $.$$$$#
+# $.    #
+#########
+; SokoStation / DANS LE TOURBILLON R--1
+; Copyright: Ghislain Martin, Marek Letrab
+
+###########
+#         #
+# *.* *.* #
+# $*$ $*$ #
+# *.* *.* #
+#    #    #
+# *.* *.* #
+# $*$ $*$ ##
+# *.* *.*  #
+#        @ #
+############
+; SokoStation / HI HI HI HI R--2
+; Copyright: Ghislain Martin, Jordi Doménech
+

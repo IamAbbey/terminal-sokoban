@@ -1,0 +1,43 @@
+name: Publish
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-package:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Poetry
+        shell: bash
+        run: pipx install poetry
+      
+      - uses: actions/setup-python@v5
+        id: setup-python
+        with:
+          cache: 'poetry'
+          cache-dependency-path: ${{ format('{0}/poetry.lock', github.workspace) }}
+      
+      - name: check poetry lock
+        run: |
+          poetry check --lock
+          python --version
+          poetry --version
+        shell: bash
+        working-directory: ${{ github.workspace }}
+      
+      - name: Create virtualenv and install dependencies
+        shell: bash
+        working-directory: ${{ github.workspace }}
+        run: poetry install
+
+      - name: Publish package
+        run: |
+          poetry publish --build
+        env:
+          POETRY_HTTP_BASIC_PYPI_USERNAME: ${{ secrets.POETRY_HTTP_BASIC_PYPI_USERNAME }}
+          POETRY_HTTP_BASIC_PYPI_PASSWORD: ${{ secrets.POETRY_HTTP_BASIC_PYPI_PASSWORD }}
