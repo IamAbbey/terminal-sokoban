@@ -17,13 +17,11 @@ license = "MIT"
 classifiers = [
     'Environment :: Console',
     'Intended Audience :: End Users/Desktop',
-    'License :: OSI Approved :: ',
-    'GNU Lesser General Public License v3 or later (LGPLv3+)',
+    'License :: OSI Approved :: MIT License',
     'Operating System :: POSIX',
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.12",
     'Topic :: Games/Entertainment :: Puzzle Games',
-    'Topic :: Terminals'
 ]
 
 [tool.poetry.dependencies]
