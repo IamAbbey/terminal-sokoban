@@ -7,7 +7,15 @@ on:
 jobs:
   publish-package:
     runs-on: ubuntu-22.04
+    environment: release
     timeout-minutes: 10
+
+    permissions:
+      # Used to authenticate to PyPI via OIDC.
+      # Used to sign the release's artifacts with sigstore-python.
+      id-token: write
+      # Used to attach signing artifacts to the published release.
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -35,9 +43,17 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: poetry install
 
-      - name: Publish package
-        run: |
-          poetry publish --build
-        env:
-          POETRY_HTTP_BASIC_PYPI_USERNAME: ${{ secrets.POETRY_HTTP_BASIC_PYPI_USERNAME }}
-          POETRY_HTTP_BASIC_PYPI_PASSWORD: ${{ secrets.POETRY_HTTP_BASIC_PYPI_PASSWORD }}
+      - name: Build Python package
+        run: poetry build
+      
+      - name: Publish to PyPi
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          verbose: true
+          print-hash: true
+      
+      - name: Sign published artifacts
+        uses: sigstore/gh-action-sigstore-python@v2.1.0
+        with:
+          inputs: ./dist/*.tar.gz ./dist/*.whl
+          release-signing-artifacts: true
