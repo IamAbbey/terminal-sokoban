@@ -1,4 +1,5 @@
 from collections import deque
+import signal
 import sys
 import time
 from typing import Deque
@@ -63,22 +64,39 @@ class Sokoban:
 
         self.movement_history: MovementHistory = MovementHistory()
 
+        self.is_paused: bool = False
+
+    def verify_size(self, *args):
+        if self.stage.board_dimension_column + 9 > self.term.height:
+            echo(self.term.move_xy(0, 0) + self.term.on_black + self.term.clear_eos)
+            echo(self.term.on_black + self.term.webgreen(" SOKOBAN ♥️ "))
+            echo("\r\n")
+            echo("\r\n")
+            echo(
+                self.term.on_black
+                + self.term.red(
+                    " Terminal size is too small; please resize the terminal to continue."
+                )
+            )
+            self.is_paused = True
+        else:
+            self.is_paused = False
+            self.draw_board()
+
     def draw_board(self, won=False):
-        echo(self.term.home + self.term.on_black + self.term.clear_eol)
+        echo(self.term.home + self.term.on_black + self.term.clear)
 
         echo(self.term.on_black + self.term.webgreen(" SOKOBAN ♥️ "))
-        echo(self.term.move_xy(0, 1))
+        echo("\r\n")
         echo(
-            self.term.move_xy(0, 2)
-            + self.term.on_black
+            self.term.on_black
             + self.term.webgreen(f" STAGE {self.stage_count + 1} of {len(self.stages)}")
         )
+        echo("\r\n")
         echo(
-            self.term.move_xy(0, 3)
-            + self.term.on_black
-            + self.term.webgreen(f" NAME: {self.stage.name.upper()}")
+            self.term.on_black + self.term.webgreen(f" NAME: {self.stage.name.upper()}")
         )
-        echo(self.term.move_down)
+        echo("\r\n")
 
         for index in range(self.width * self.height):
             display = self.term.on_black("  ")
@@ -113,7 +131,7 @@ class Sokoban:
         echo(
             self.term.on_black
             + self.term.webgreen(
-                " - Use the arrow keys to move the player around. \r\n - (r) Reverse move \r\n - (z) Restart current stage \r\n - (q) Quit"
+                " - (arrow keys) Direction. \r\n - (r) Reverse move. \r\n - (z) Restart current stage. \r\n - (q) Quit."
             )
         )
 
@@ -237,36 +255,39 @@ class Sokoban:
         self.movement_history.pop()
 
     def start(self):
-        # Move cursor to (0,0), set background to gray10 and clear screen
         echo(self.term.home + self.term.on_black + self.term.clear)
 
-        # Draw board
+        self.verify_size()
+
         self.draw_board()
 
+        # Verify size on resize signal
+        signal.signal(signal.SIGWINCH, self.verify_size)
+
         with self.term.raw(), self.term.keypad(), self.term.location(), self.term.hidden_cursor():
-            # get key input
             while (keypress := self.term.inkey()) != "q":
-                if keypress == "r":
-                    # Only make a reversement movement if movement hisory is not empty
-                    if not self.movement_history.is_empty():
-                        self.reverse_move()
+                if self.is_paused is False:
+                    if keypress == "r":
+                        # Only make a reversement movement if movement hisory is not empty
+                        if not self.movement_history.is_empty():
+                            self.reverse_move()
 
-                if keypress == "z":
                     # hard reset stage
-                    self.set_state(self.stage_count)
+                    if keypress == "z":
+                        self.set_state(self.stage_count)
 
-                # else if key pressed is each of the arrow keys, make a movement
-                elif keypress.name in Direction._member_names_:
-                    self.make_move(direction=keypress.name)
+                    # else if key pressed is each of the arrow keys, make a movement
+                    elif keypress.name in Direction._member_names_:
+                        self.make_move(direction=keypress.name)
 
-                # Player is said to complete(WON) a stage if the box positions matches the expected storage position
-                if sorted(self.box_position_index_list) == sorted(
-                    self.stage.box_storage_position_list
-                ):
-                    self.draw_board(won=True)
-                    time.sleep(1)
-                    echo(self.term.home + self.term.on_black + self.term.clear)
-                    self.next_stage()
+                    # Player is said to have complete(WON) a stage if the box positions matches the expected storage position
+                    if sorted(self.box_position_index_list) == sorted(
+                        self.stage.box_storage_position_list
+                    ):
+                        self.draw_board(won=True)
+                        time.sleep(1)
+                        echo(self.term.home + self.term.on_black + self.term.clear)
+                        self.next_stage()
 
 
 def start():

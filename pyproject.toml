@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "terminal-sokoban"
-version = "1.0.0"
+version = "1.1.0"
 description = "A terminal based Sokoban game interface"
 authors = ["Abiodun Sotunde <sotundeabiodun00@gmail.com>"]
 readme = "README.md"
