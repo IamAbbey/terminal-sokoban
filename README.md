@@ -4,7 +4,7 @@
 
 > Sokoban (倉庫番, Sōko-ban, lit. 'warehouse keeper'[1]) is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations. The game was designed in 1981 by Hiroyuki Imabayashi, and first published in December 1982. - Wikipedia: http://en.wikipedia.org/wiki/
 
-<img src="./demo.gif" width=800px>
+![demo.gif](https://github.com/IamAbbey/terminal-sokoban/assets/61361540/145628da-3050-4d72-8e21-d43ef47dba0f)
 
 ## Installation
 
